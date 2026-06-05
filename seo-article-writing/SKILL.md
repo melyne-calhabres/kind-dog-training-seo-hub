@@ -105,6 +105,21 @@ L'explication ou la solution arrive toujours en premier. Une fois que le lecteur
 
 À la fin d'une section importante (ou de l'article), terminer avec une phrase qui visualise le résultat réel — quelque chose que le lecteur peut imaginer concrètement. Pas une promesse floue (« avec de la patience, vous y arriverez »), mais une image précise de ce que ça donne en pratique. Exemple : « Dans quelques semaines, ce rappel qui vous donnait des sueurs froides dans le parc deviendra un automatisme. Pas de la magie — juste du travail fait dans le bon sens. »
 
+#### Exemples de la vie courante
+
+Les explications abstraites ou les principes généraux doivent être ancrés dans des situations concrètes que le lecteur reconnaît immédiatement. L'objectif n'est pas d'illustrer chaque paragraphe — seulement les passages où un exemple rend l'idée plus parlante ou donne envie de continuer à lire.
+
+Un bon exemple de vie courante :
+- Est court (une phrase, deux maximum)
+- Met en scène une situation que le propriétaire a déjà vécue (pas une situation hypothétique abstraite)
+- Peut être introduit par « c'est là que », « c'est ce qui donne », « vous vous retrouvez avec », « vous vous dites probablement », etc.
+
+Exemples de la bonne approche :
+- Après « Un chien qui n'a jamais appris à renoncer est en permanence déstabilisé » → *« C'est là que vous vous retrouvez avec un chien qui aboie avec insistance pour avoir quelque chose, tire en laisse pour aller voir un copain, etc. »*
+- Après « on bascule souvent vers la contrainte ou l'énervement » → *« Pourtant vous vous dites probablement souvent "c'est l'adolescence" ou "il a arrêté d'écouter du jour au lendemain" — alors que c'est vous qui l'avez, sûrement inconsciemment, amené là. »*
+
+Ne pas forcer un exemple là où le texte est déjà concret par nature. L'exemple doit apporter quelque chose, pas meubler.
+
 #### Contraintes de rédaction
 
 **Paragraphes : 300 mots maximum.** Découper naturellement. Un paragraphe = une idée. Si un concept nécessite plus de 300 mots, le scinder en plusieurs paragraphes avec une progression logique.
