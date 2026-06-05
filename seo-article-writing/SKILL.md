@@ -87,6 +87,23 @@ Concrètement :
 - Alternance entre explication et adresse au lecteur
 - Sérieux sur le fond, décontracté sur la forme
 - Pas de jargon inutile, pas de ton académique
+- **Une à deux touches d'humour par article, pas plus.** Mélyne aime glisser une remarque légère ou une formulation qui fait sourire. Ça crée de la proximité et ça la démarque du ton sérieux de la plupart des éducateurs. L'humour doit rester ponctuel et naturel : une observation décalée, une autodérision sur le quotidien avec un chien, une image qui fait mouche. Si la phrase d'humour semble forcée ou plaquée, la retirer. L'article reste sérieux dans son propos, l'humour est un assaisonnement, pas le plat.
+
+#### Arc émotionnel
+
+L'article doit transmettre une émotion, pas seulement informer. Trois règles pour ça :
+
+**1. Empathie à la première personne**
+
+Mélyne peut nommer ce que vit le lecteur — son découragement, son doute, sa confusion. Mais toujours depuis son point de vue à elle, jamais depuis un "on" anonyme. Exemples : « je connais bien cette situation », « je vois ça régulièrement avec les personnes que j'accompagne », « vous êtes peut-être découragé, et c'est tout à fait compréhensible ». Ces formules créent de la proximité sans dramatiser.
+
+**2. Information d'abord, émotion après**
+
+L'explication ou la solution arrive toujours en premier. Une fois que le lecteur a la réponse, on peut ancrer ça dans son vécu pour qu'il sente que l'article lui parle vraiment. Cette séquence (information → reconnaissance du vécu) se place **1 à 2 fois maximum par article** selon sa longueur. Trop souvent, ça devient du pathos.
+
+**3. Image concrète de l'après**
+
+À la fin d'une section importante (ou de l'article), terminer avec une phrase qui visualise le résultat réel — quelque chose que le lecteur peut imaginer concrètement. Pas une promesse floue (« avec de la patience, vous y arriverez »), mais une image précise de ce que ça donne en pratique. Exemple : « Dans quelques semaines, ce rappel qui vous donnait des sueurs froides dans le parc deviendra un automatisme. Pas de la magie — juste du travail fait dans le bon sens. »
 
 #### Contraintes de rédaction
 
@@ -164,7 +181,7 @@ Reporter le résultat en fin de fichier dans les notes techniques.
 
 Calculer le nombre total de mots de l'article (contenu principal + FAQ, sans les notes techniques). Estimer le temps de lecture :
 
-- Vitesse moyenne de lecture : 200-250 mots/minute pour du contenu web
+- Vitesse moyenne de lecture : 130-180 mots/minute pour du contenu web
 - Arrondir au chiffre le plus proche (pas de « 4 minutes 23 secondes »)
 
 Ce temps sera affiché en haut de l'article dans le fichier de sortie.
