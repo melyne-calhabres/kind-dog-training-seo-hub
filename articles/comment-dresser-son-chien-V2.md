@@ -157,3 +157,16 @@ Les friandises sont un outil parmi d'autres. Ce qui compte, c'est que la récomp
 - **Densité du mot clé :** ~2,4% (42 occurrences des termes principaux : "dresser son chien", "dressage du chien", "dresser un chiot", "éduquer son chien", "éducation canine", "apprentissage du chien" et déclinaisons directes)
 - **Nombre de callouts :** 5
 - **Fourchette cible :** 640 – 1 980 mots
+
+## Balises meta
+
+- **Meta title :** Comment Dresser son Chien : ce qui Compte Vraiment
+- **Caractères title :** 50
+- **Meta description :** Comment dresser son chien ? Pas par les ordres. Besoins, suivi naturel, erreurs courantes : les vraies bases pour un chien à l'écoute.
+- **Caractères description :** 134
+
+## Chemin d'URL
+
+- **URL :** /education-canine/dressage/comment-dresser-chien/
+- **Slug :** comment-dresser-chien
+- **Branche arborescence :** education-canine/dressage/
