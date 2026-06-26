@@ -105,7 +105,7 @@ Les cas clients dans `cas-clients/` sont des bilans réels de chiens accompagné
 - Un axe de travail concret mis en place
 - Un détail qui illustre la complexité réelle d'une situation
 
-Ces éléments seront utilisés dans l'article sous forme anonymisée. Ne jamais citer le prénom du chien ni des détails permettant d'identifier le propriétaire. La formulation type est : « un staffie que j'ai accompagné récemment », « une chienne que j'ai suivie pour cette problématique », « dans un cas que j'ai eu », etc.
+Ces éléments seront utilisés dans l'article sous forme anonymisée. Ne jamais citer le prénom du chien ni des détails permettant d'identifier le propriétaire. On peut en revanche citer la race du chien pour améliorer l'identification du lecteur. La formulation type est : « un staffie que j'ai accompagné récemment », « une chienne que j'ai suivie pour cette problématique », « dans un cas que j'ai eu avec un malinois », etc.
 
 Il est possible que les cas clients disponibles ne couvrent pas tous les angles de l'article. Ce n'est pas un problème : utiliser les cas pertinents là où ils apportent de la valeur, et rédiger les autres sections à partir de la base de connaissances seule. L'objectif est de maximiser la présence de données terrain, pas de forcer un cas client dans chaque paragraphe.
 
@@ -181,9 +181,9 @@ Ne pas forcer un exemple là où le texte est déjà concret par nature. L'exemp
 
 **Paragraphes : 300 mots maximum.** Découper naturellement. Un paragraphe = une idée. Si un concept nécessite plus de 300 mots, le scinder en plusieurs paragraphes avec une progression logique.
 
-**Densité du mot clé : environ 2,5%.** Ce ratio est un objectif souple, pas une contrainte rigide. La priorité reste la qualité de lecture. Intégrer le mot clé et ses variantes naturelles dans le flux du texte. Utiliser des mots de liaison, des reformulations, des pronoms pour éviter toute répétition forcée. Si atteindre 2,5% rend le texte artificiel, rester en dessous. Le keyword stuffing est pire que la sous-optimisation.
+**Densité du mot clé : environ 1,5%.** Ce ratio est un objectif souple, pas une contrainte rigide. La priorité reste la qualité de lecture. Intégrer le mot clé et ses variantes naturelles dans le flux du texte. Utiliser des mots de liaison, des reformulations, des pronoms pour éviter toute répétition forcée. Si atteindre 2,5% rend le texte artificiel, rester en dessous. Le keyword stuffing est pire que la sous-optimisation.
 
-Pour calculer : sur un article de 1 000 mots, 2,5% = environ 25 occurrences du mot clé (ou de variantes proches). Compter le mot clé principal + ses déclinaisons naturelles (singulier/pluriel, avec/sans déterminant, reformulations proches).
+Pour calculer : sur un article de 1 000 mots, 1,5% = environ 15 occurrences du mot clé (ou de variantes proches). Compter le mot clé principal + ses déclinaisons naturelles (singulier/pluriel, avec/sans déterminant, reformulations proches).
 
 **Sourcing strict** : chaque affirmation, conseil, explication doit être traçable à un contenu de la base de connaissances ou des cas clients. Ne rien inventer. Si la base ne couvre pas un angle prévu dans le plan, le signaler à l'utilisateur plutôt que d'improviser.
 
@@ -239,6 +239,7 @@ Relire l'article complet en appliquant les règles du skill `avoid-ai-writing`. 
 - Pas de structure trop uniforme (tous les paragraphes de la même taille = signal IA)
 - Pas de conclusions génériques (« En résumé », « L'essentiel est de »)
 - Test de lecture : le texte sonne-t-il comme un humain qui écrit, ou comme une IA qui génère ?
+- Pas de pattern d'écriture de type "Ce n'est pas X, c'est Y."
 
 Si des problèmes sont détectés, réécrire les passages concernés.
 
@@ -248,7 +249,7 @@ Compter les occurrences du mot clé principal et de ses variantes dans l'article
 
 `(nombre d'occurrences / nombre total de mots) x 100`
 
-Si la densité est très en dessous de 2% ou au-dessus de 3%, ajuster. Mais toujours en préservant la fluidité de lecture : un texte naturel prime sur un ratio mathématique.
+Si la densité est très en dessous de 1% ou au-dessus de 3%, ajuster. Mais toujours en préservant la fluidité de lecture : un texte naturel prime sur un ratio mathématique.
 
 Reporter le résultat en fin de fichier dans les notes techniques.
 
@@ -327,12 +328,12 @@ Avant de livrer l'article, vérifier ces points :
 1. **Sourcing** : tout le contenu provient de la base de connaissances et/ou des cas clients, rien n'est inventé
 2. **Données terrain** : le maximum de sections contiennent des éléments issus de l'expérience réelle (cas clients ou observations terrain de la base)
 3. **Test anti-copie** : chaque section contient au moins un élément que seul un professionnel de terrain pourrait écrire (si un cas client est disponible pour ce sujet)
-4. **Anonymisation** : aucun prénom de chien ni détail identifiant dans les références aux cas clients
+4. **Anonymisation** : aucun prénom de chien dans les références aux cas clients
 5. **Termes interdits** : aucune occurrence de « éducation positive », « renforcement positif », « méthode coercitive »
 6. **Vouvoiement** : le lecteur est toujours vouvoyé, sans exception
 7. **Anti-IA** : l'article passe le filtre avoid-ai-writing (pas de mots Tier 1, rythme varié, transitions naturelles)
 8. **Paragraphes** : aucun ne dépasse 300 mots
-9. **Mot clé** : densité aux alentours de 2,5% (entre 2% et 3%)
+9. **Mot clé** : densité aux alentours de 1,5% (entre 1% et 3%)
 10. **Callouts** : entre 1 et 6, environ 1 tous les 250-300 mots, en blockquote markdown
 11. **FAQ** : toutes les questions du plan ont une réponse (50-150 mots chacune)
 12. **À retenir** : encart présent en haut, entre 4 et 10 points selon la longueur

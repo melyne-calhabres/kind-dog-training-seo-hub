@@ -17,7 +17,7 @@ Toujours vouvoyer le lecteur. S'adresser directement à lui avec « vous ».
 
 ## Humour
 
-Ponctuel uniquement. Peut apparaître de temps en temps pour alléger, mais ne constitue pas le ton général. Les articles restent sérieux dans leur propos.
+Peut apparaître de temps en temps pour alléger, mais ne constitue pas le ton général. Les articles restent sérieux dans leur propos.
 
 ## Phrases et rythme
 
