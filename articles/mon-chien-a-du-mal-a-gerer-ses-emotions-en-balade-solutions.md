@@ -10,7 +10,7 @@
 
 ---
 
-Vous l'avez sûrement déjà vécu : à peine sorti, votre chien tire, couine, fixe le premier congénère à cinquante mètres et n'entend plus un mot de ce que vous lui dites. Si votre chien a du mal à gérer ses émotions en balade, ça se travaille. Pas avec une recette miracle, mais avec quelques compétences à construire dans le bon ordre. Cet article est la suite pratique de [celui qui explique pourquoi votre chien déborde dehors](mon-chien-a-du-mal-a-gerer-ses-emotions-en-balade). Ici, on passe au comment faire.
+Vous l'avez sûrement déjà vécu : à peine sorti, votre chien tire, couine, fixe le premier congénère à cinquante mètres et n'entend plus un mot de ce que vous lui dites. Si votre chien a du mal à gérer ses émotions en balade, ça se travaille avec quelques compétences à construire dans le bon ordre. Cet article est la suite pratique de [celui qui explique pourquoi votre chien déborde dehors](mon-chien-a-du-mal-a-gerer-ses-emotions-en-balade). Ici, on passe au comment faire.
 
 ## Commencez par combler ses besoins, c'est la base du retour au calme
 
@@ -102,3 +102,16 @@ Il n'y a pas de durée fixe : ça dépend du chien, de son passé, de son tempé
 - **Nombre de callouts :** 5 (corps d'article) + encart À retenir
 - **Données terrain :** 5 sections H2 sur 5 contiennent des éléments terrain
 - **Cas clients mobilisés :** gestion des émotions liée à un sevrage défaillant (prend-lâche, staffie qui se pose enfin), forte excitation et besoin de dépense mentale (jeune chien qui rentre sous tension), renoncement face à la balle décomposé (jeune chienne très motivée par la balle), rappel en pleine course (chien à compréhension rapide), retour au calme en longe + couché (jeune chien qui montait vite en pression)
+
+## Balises meta
+
+- **Meta title :** Mon Chien a du Mal à Gérer ses Émotions en Balade, Que Faire ?
+- **Caractères title :** 61
+- **Meta description :** Votre chien a du mal à gérer ses émotions en balade ? Voici 4 leviers pour qu'il apprenne à redescendre, à renoncer et à se poser près de vous.
+- **Caractères description :** 135
+
+## Chemin d'URL
+
+- **URL :** /education-canine/comportement/problemes/reactivite/gestion-emotions-balade-solutions/
+- **Slug :** gestion-emotions-balade-solutions
+- **Branche arborescence :** education-canine/comportement/problemes/reactivite/
