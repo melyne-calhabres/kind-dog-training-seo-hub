@@ -1,6 +1,6 @@
 # Adolescence du chien : la phase qu'on accuse trop vite de tout
 
-**Temps de lecture : 14 minutes**
+**Temps de lecture : 15 minutes**
 
 > **À retenir**
 > - Dans la grande majorité des cas, ce n'est pas l'adolescence qui pose problème, mais des failles éducatives qui deviennent visibles à ce moment-là.
@@ -44,7 +44,7 @@ Ce genre de situation n'a rien à voir avec la puberté. Le chien a juste grandi
 
 ### Une socialisation incomplète qui se paie maintenant
 
-La fenêtre d'imprégnation se referme vers trois mois et demi. Tout ce que le chiot n'a pas rencontré pendant cette période peut devenir, plus tard, une source de méfiance ou de réaction. Le souci, c'est que ça ne se voit pas tout de suite. Un chiot mal socialisé reste mignon et gérable un moment. Puis arrive l'adolescence et la facture tombe.
+La fenêtre d'imprégnation se referme vers quatre mois et demi. Tout ce que le chiot n'a pas rencontré pendant cette période peut devenir, plus tard, une source de méfiance ou de réaction. Le souci, c'est que ça ne se voit pas tout de suite. Un chiot mal socialisé reste mignon et gérable un moment. Puis arrive l'adolescence et la facture tombe.
 
 Attention, l'excès dans l'autre sens existe aussi. J'ai suivi un jeune chien arrivé en pleine adolescence dont la réactivité venait d'une hyper-socialisation mal cadrée étant petit : il avait passé tellement de temps en contact prolongé avec d'autres chiens qu'il était devenu incapable de renoncer à eux. Dès qu'il en voyait un, il se figeait, fixait, tirait. Là encore, l'âge n'était que le révélateur d'un travail mal posé en amont.
 
