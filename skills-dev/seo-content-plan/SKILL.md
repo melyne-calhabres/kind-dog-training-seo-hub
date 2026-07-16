@@ -158,6 +158,7 @@ Les H2 sont construits à partir de la matière identifiée dans la base de conn
 - Formuler des titres qui parlent au lecteur : préférer les tournures orientées solution ou compréhension (« Pourquoi votre chien… », « Comment réagir quand… ») plutôt que des titres encyclopédiques (« Définition de… », « Historique de… »).
 - Refléter le ton de Kind Dog Training : direct, concret, rassurant. Pas académique.
 - Varier les formulations : mélanger questions, affirmations, et tournures avec « comment/pourquoi ».
+- Privilégier le terre-à-terre au littéraire : un titre doit être direct et concret, comme on parlerait à un propriétaire. Éviter les formulations imagées ou « jolies » qui tournent autour du sujet (« ne pas élever la clôture », « éteindre l'envie de partir », « un chien perdu d'avance »). Préférer le mot simple et l'action claire (« Renforcer le lien plutôt que la clôture », « pour qu'il n'ait plus envie de partir », « Un chien qui fugue, ça se règle »). Test : si le titre sonne comme une phrase de roman plutôt que comme un conseil qu'on donnerait à voix haute, le reformuler.
 
 ### Étape 5 — Construire les H3
 
@@ -202,6 +203,7 @@ Avant de générer le fichier, vérifier :
 9. **Anti-IA** : aucun titre ne contient de mot Tier 1 du skill avoid-ai-writing, pas de tiret cadratin, pas de formule creuse, et les titres varient en longueur et en formulation.
 10. **Arborescence** : le plan respecte le positionnement dans l'arborescence du site — pas de chevauchement avec les pages sœurs ou enfants dédiées, et le maillage interne est cohérent avec le cocon sémantique.
 11. **Donnée terrain** : chaque H2 est adossé à au moins un élément concret issu de l'expérience (cas observé, mécanisme constaté en séance, erreur vue sur le terrain, résultat obtenu avec un chien réel). Si un H2 ne repose que sur de la théorie généraliste trouvable partout, le reformuler autour d'un angle terrain ou le supprimer.
+12. **Terre-à-terre** : aucun H2 ne repose sur une tournure littéraire ou imagée là où un titre direct ferait mieux passer le message.
 
 ## Output
 

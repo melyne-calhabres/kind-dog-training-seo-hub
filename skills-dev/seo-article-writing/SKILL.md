@@ -105,7 +105,7 @@ Les cas clients dans `cas-clients/` sont des bilans réels de chiens accompagné
 - Un axe de travail concret mis en place
 - Un détail qui illustre la complexité réelle d'une situation
 
-Ces éléments seront utilisés dans l'article sous forme anonymisée. Ne jamais citer le prénom du chien ni des détails permettant d'identifier le propriétaire. On peut en revanche citer la race du chien pour améliorer l'identification du lecteur. La formulation type est : « un staffie que j'ai accompagné récemment », « une chienne que j'ai suivie pour cette problématique », « dans un cas que j'ai eu avec un malinois », etc.
+Ces éléments seront utilisés dans l'article sous forme anonymisée. Ne jamais citer le prénom du chien ni des détails permettant d'identifier le propriétaire. En revanche, on cite la race du chien pour améliorer l'identification du lecteur. La formulation type est : « un staffie que j'ai accompagné récemment », « une chienne cocker que j'ai suivie pour cette problématique », « dans un cas que j'ai eu avec un malinois », etc.
 
 Il est possible que les cas clients disponibles ne couvrent pas tous les angles de l'article. Ce n'est pas un problème : utiliser les cas pertinents là où ils apportent de la valeur, et rédiger les autres sections à partir de la base de connaissances seule. L'objectif est de maximiser la présence de données terrain, pas de forcer un cas client dans chaque paragraphe.
 
@@ -128,8 +128,8 @@ L'explication technique pure (le "pourquoi" comportemental) n'est pas interdite,
 
 Les cas clients s'intègrent naturellement dans le flux du texte, pas dans des encarts séparés. Ils servent à illustrer, nuancer ou rendre concret un propos. Quelques formes possibles :
 
-- **Illustration d'un point** : « J'ai accompagné une chienne qui réagissait exactement comme ça : elle aboyait, avançait, puis reculait immédiatement. Ce qui était intéressant dans son cas, c'est qu'elle gardait une vraie curiosité malgré l'inquiétude. »
-- **Nuance ou contre-exemple** : « On pourrait croire que tous les chiens réactifs sont terrorisés. J'ai suivi un chien dont la réactivité venait d'un manque de sevrage, pas de la peur. Le travail était complètement différent. »
+- **Illustration d'un point** : « J'ai accompagné une bully qui réagissait exactement comme ça : elle aboyait, avançait, puis reculait immédiatement. Ce qui était intéressant dans son cas, c'est qu'elle gardait une vraie curiosité malgré l'inquiétude. »
+- **Nuance ou contre-exemple** : « On pourrait croire que tous les chiens réactifs sont terrorisés. J'ai suivi un staffie dont la réactivité venait d'un manque de sevrage, pas de la peur. Le travail était complètement différent. »
 - **Détail concret qui crédibilise** : « Dans ce genre de situation, ce que je vois souvent, c'est un chien dont le sevrage a fait défaut et qui n'a jamais appris à se contrôler : il saute, il mordille, il monte en excitation sans savoir redescendre. »
 
 Les données terrain issues des cas clients sont la matière la plus précieuse de l'article. Les placer aux endroits où elles ont le plus d'impact : en ouverture de section pour accrocher, en illustration d'un concept clé, ou en nuance d'une idée reçue.
