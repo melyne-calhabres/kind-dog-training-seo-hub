@@ -155,10 +155,11 @@ Les H2 sont construits à partir de la matière identifiée dans la base de conn
 
 **Principes de rédaction des H2 :**
 
-- Formuler des titres qui parlent au lecteur : préférer les tournures orientées solution ou compréhension (« Pourquoi votre chien… », « Comment réagir quand… ») plutôt que des titres encyclopédiques (« Définition de… », « Historique de… »).
-- Refléter le ton de Kind Dog Training : direct, concret, rassurant. Pas académique.
-- Varier les formulations : mélanger questions, affirmations, et tournures avec « comment/pourquoi ».
-- Privilégier le terre-à-terre au littéraire : un titre doit être direct et concret, comme on parlerait à un propriétaire. Éviter les formulations imagées ou « jolies » qui tournent autour du sujet (« ne pas élever la clôture », « éteindre l'envie de partir », « un chien perdu d'avance »). Préférer le mot simple et l'action claire (« Renforcer le lien plutôt que la clôture », « pour qu'il n'ait plus envie de partir », « Un chien qui fugue, ça se règle »). Test : si le titre sonne comme une phrase de roman plutôt que comme un conseil qu'on donnerait à voix haute, le reformuler.
+- **Formuler des titres qui parlent au lecteur** : préférer les tournures orientées solution ou compréhension (« Pourquoi votre chien… », « Comment réagir quand… ») plutôt que des titres encyclopédiques (« Définition de… », « Historique de… »).
+- **Refléter le ton de Kind Dog Training** : direct, concret, rassurant. Pas académique.
+- **Varier les formulations** : mélanger questions, affirmations, et tournures avec « comment/pourquoi ».
+- **Privilégier le terre-à-terre au littéraire** : un titre doit être direct et concret, comme on parlerait à un propriétaire. Éviter les formulations imagées ou « jolies » qui tournent autour du sujet (« ne pas élever la clôture », « éteindre l'envie de partir », « un chien perdu d'avance »). Préférer le mot simple et l'action claire (« Renforcer le lien plutôt que la clôture », « pour qu'il n'ait plus envie de partir », « Un chien qui fugue, ça se règle »). Test : si le titre sonne comme une phrase de roman plutôt que comme un conseil qu'on donnerait à voix haute, le reformuler.
+- **S'adresser directement au lecteur** : Les titres doivent parler au propriétaire, pas décrire le sujet de l'extérieur. Préférer le « vous » et les tournures parlées (« Pourquoi votre chien fait ça », « Vous ne vous en sortez pas seul ? ») aux titres neutres et lisses (« Les réactions qui aggravent la situation », « Quand et à qui demander de l'aide »). Test : si le titre pourrait servir de simple étiquette de sommaire, il est trop distant. Le reformuler pour qu'il interpelle la personne qui lit.
 
 ### Étape 5 — Construire les H3
 
@@ -195,7 +196,7 @@ Avant de générer le fichier, vérifier :
 1. **Sourcing strict** : chaque H2 et H3 est traçable à un contenu de la base de connaissances. Aucun angle n'a été inventé.
 2. **Respect des interdits** : aucun titre ne contient « éducation positive », « renforcement positif », « méthode coercitive », ni ne catégorise l'approche.
 3. **Ratio sémantique** : compter les H2 contenant un terme sémantiquement proche du mot clé. Le ratio doit être entre 40% et 50%.
-4. **Lisibilité** : relire chaque titre à voix haute mentalement. S'il sonne artificiel ou bourré de mots clés, le reformuler.
+4. **Lisibilité et adresse au lecteur** : relire chaque titre à voix haute mentalement. S'il sonne artificiel ou bourré de mots clés, le reformuler. Vérifier aussi que les titres s'adressent au lecteur (« vous ») plutôt que de décrire le sujet à distance ; un titre qui pourrait être une simple étiquette de sommaire est trop lisse et doit être reformulé pour interpeller directement.
 5. **Maximum 6 H2** : pas plus.
 6. **Cohérence** : le plan raconte une progression logique — le lecteur doit pouvoir scanner les titres et comprendre le fil conducteur de l'article.
 7. **BLUF** : les premiers H2 répondent directement à l'intention de recherche. Le contexte et les approfondissements viennent après.
