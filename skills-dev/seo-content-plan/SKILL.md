@@ -39,6 +39,12 @@ Avant de commencer, lire les fichiers de référence de la marque dans le dossie
 - `audience-cible.md`
 - `ligne-editoriale.md`
 
+Puis lire les trois index :
+
+- `descriptions-reels-instagram/INDEX.md` — repérer les reels dont les angles/positions de Mélyne touchent le sujet. Aller ensuite lire en entier les fichiers de reels pertinents pour intégrer ses prises de position dans le plan (angles, formulations tranchées, contre-exemples). Les reels contiennent souvent la position exacte de Mélyne sur des débats du milieu qu'un article ne peut pas contredire.
+- `plans-contenu/INDEX.md` — vérifier qu'aucun plan existant ne couvre déjà le mot clé cible ou un mot clé trop proche (risque de cannibalisation). Identifier aussi les plans voisins pour caler l'angle du nouveau plan par différenciation.
+- `articles/INDEX.md` — identifier les articles déjà publiés qui traitent de sujets connexes. Ces articles sont les cibles naturelles du maillage interne et à ne pas dupliquer.
+
 Ces fichiers définissent le ton, les valeurs et les contraintes éditoriales. Deux règles absolues à retenir :
 
 1. Ne jamais utiliser les termes « éducation positive », « renforcement positif » ou « méthode coercitive » dans aucun titre.
@@ -209,6 +215,14 @@ Avant de générer le fichier, vérifier :
 ## Output
 
 Sauvegarder le fichier dans le sous-dossier `plans-contenu/` du dossier de travail. Le nommer `plan-[mot-clé-slugifié].md`. Créer le sous-dossier s'il n'existe pas.
+
+**Après avoir écrit le plan, mettre à jour `plans-contenu/INDEX.md`** en ajoutant une ligne pour le nouveau plan, dans la bonne rubrique thématique (créer la rubrique si aucune ne correspond). Format d'une ligne :
+
+```
+- [plan-slug.md](plan-slug.md) — « mot clé principal » → angle en une ligne (max 15 mots).
+```
+
+L'angle doit résumer l'orientation éditoriale du plan, pas juste le sujet. Objectif : qu'une lecture rapide de l'index permette de savoir si un plan couvre déjà tel angle ou pas.
 
 ### Format du fichier de sortie
 

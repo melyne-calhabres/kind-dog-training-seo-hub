@@ -45,7 +45,12 @@ Avant de commencer la rédaction, lire dans cet ordre :
 
 2. Le skill `avoid-ai-writing` (SKILL.md) — le lire en entier pour intégrer ses règles pendant la rédaction.
 
-3. Le plan de contenu (input) dans `plans-contenu/`.
+3. Les trois index :
+   - `descriptions-reels-instagram/INDEX.md` — repérer les reels dont l'angle touche le sujet, puis lire en entier les fichiers pertinents. Les reels contiennent des positions tranchées, des formulations parlées et des cas terrain de Mélyne qui enrichissent la rédaction. Un article doit être cohérent avec les prises de position déjà exprimées sur Instagram (jamais les contredire).
+   - `articles/INDEX.md` — identifier les articles publiés sur des sujets connexes. Ils servent de cibles de maillage interne potentiel et évitent de dupliquer des angles déjà traités ailleurs.
+   - `plans-contenu/INDEX.md` — utile pour comprendre comment les plans voisins ont été découpés (cohérence de l'écosystème).
+
+4. Le plan de contenu (input) dans `plans-contenu/`.
 
 Trois règles absolues à garder en tête en permanence :
 
@@ -289,6 +294,14 @@ Règles :
 ## Output
 
 Le fichier de sortie est un fichier markdown sauvegardé dans `articles/` à la racine du dossier de travail. Nom du fichier : `[mot-clé-slugifié].md`.
+
+**Après avoir écrit l'article, mettre à jour `articles/INDEX.md`** en ajoutant une ligne pour le nouvel article, dans la bonne rubrique thématique (créer la rubrique si aucune ne correspond). Format d'une ligne :
+
+```
+- [slug.md](slug.md) — « mot clé principal » → angle en une ligne (max 15 mots).
+```
+
+L'angle doit résumer l'orientation éditoriale de l'article, pas juste le sujet, pour que le maillage interne futur soit précis.
 
 ### Structure du fichier de sortie
 
