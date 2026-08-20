@@ -1,0 +1,684 @@
+/* ============================================================
+   CARROUSELS INSTAGRAM — Base template CSS
+   Chargé par toutes les slides. Import colors_and_type.css.
+   ============================================================ */
+
+@import url('./colors_and_type.css');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 1080px;
+  height: 1350px;
+  overflow: hidden;
+  background: var(--kd-cream);
+  color: var(--color-fg);
+  font-family: var(--font-sans);
+}
+
+.slide {
+  width: 1080px;
+  height: 1350px;
+  position: relative;
+  padding: 96px 88px 130px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+/* --- Surfaces --- */
+.slide--cream       { background: var(--kd-cream); color: var(--color-fg); }
+.slide--paper       { background: var(--kd-paper); color: var(--color-fg); }
+.slide--terracotta  { background: var(--kd-terracotta); color: var(--kd-paper); }
+.slide--terracotta .kd-eyebrow { color: var(--kd-paper); opacity: 0.85; }
+.slide--terracotta .accent     { color: var(--kd-cream); }
+.slide--ink         { background: var(--kd-ink); color: var(--kd-paper); }
+.slide--ink .accent { color: var(--kd-terracotta-soft); }
+
+/* ============================================================
+   DÉCORATIONS DE FOND
+   ============================================================ */
+
+/* Grille de points en coin (haut droit ou bas gauche selon variante) */
+.deco-dots {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-image: radial-gradient(circle, currentColor 3px, transparent 3.5px);
+  background-size: 30px 30px;
+  opacity: 0.14;
+  z-index: 0;
+  pointer-events: none;
+  color: var(--kd-terracotta);
+}
+.deco-dots--tr { top: -40px; right: -40px; }
+.deco-dots--bl { bottom: 60px; left: -40px; }
+.slide--terracotta .deco-dots,
+.slide--ink .deco-dots { color: var(--kd-paper); opacity: 0.16; }
+
+/* Grand arc décoratif (signature marque) */
+.deco-arc {
+  position: absolute;
+  width: 640px;
+  height: 640px;
+  border-radius: 50%;
+  border: 2px solid currentColor;
+  opacity: 0.08;
+  z-index: 0;
+  pointer-events: none;
+  color: var(--kd-terracotta);
+}
+.deco-arc--tr { top: -260px; right: -220px; }
+.deco-arc--br { bottom: -320px; right: -260px; }
+.deco-arc--bl { bottom: -320px; left: -260px; }
+.slide--terracotta .deco-arc,
+.slide--ink .deco-arc { color: var(--kd-paper); opacity: 0.14; }
+
+/* Trait horizontal accent */
+.deco-line {
+  width: 96px;
+  height: 6px;
+  background: var(--kd-terracotta);
+  border-radius: var(--radius-pill);
+  margin-bottom: 32px;
+}
+.slide--terracotta .deco-line { background: var(--kd-paper); }
+.slide--ink .deco-line       { background: var(--kd-terracotta); }
+
+/* Guillemet géant décoratif pour les slides hero */
+.deco-quote {
+  position: absolute;
+  top: 40px;
+  left: 60px;
+  font-family: var(--font-serif);
+  font-size: 340px;
+  line-height: 1;
+  color: currentColor;
+  opacity: 0.10;
+  z-index: 0;
+  pointer-events: none;
+  color: var(--kd-terracotta);
+  font-weight: 500;
+}
+.slide--cream .deco-quote,
+.slide--paper .deco-quote { color: var(--kd-terracotta); }
+.slide--terracotta .deco-quote,
+.slide--ink .deco-quote  { color: var(--kd-paper); opacity: 0.16; }
+
+/* Les couches de contenu en flux normal passent au-dessus des déco.
+   Ne PAS appliquer position:relative aux éléments déjà positionnés en absolu
+   (footer-bar, swipe-cta, portrait) sous peine de casser leur ancrage. */
+.slide > .eyebrow,
+.slide > .content { position: relative; z-index: 1; }
+
+/* ============================================================
+   ÉLÉMENTS DE CONTENU
+   ============================================================ */
+
+/* --- Eyebrow : ligne supérieure catégorielle --- */
+.eyebrow {
+  font-family: var(--font-sans);
+  font-weight: 800;
+  font-size: 30px;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-primary);
+  margin-top: 36px;
+  margin-bottom: 40px;
+  display: inline-flex;
+  align-items: center;
+  gap: 18px;
+  align-self: flex-start;
+}
+.eyebrow::before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.slide--terracotta .eyebrow { color: var(--kd-paper); }
+.slide--ink .eyebrow        { color: var(--kd-terracotta-soft); }
+
+/* --- Titres --- */
+.title {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+  color: inherit;
+}
+
+.title--display  { font-size: 118px; }
+.title--xl       { font-size: 96px; }
+.title--lg       { font-size: 78px; }
+.title--md       { font-size: 62px; }
+
+.subtitle {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.35;
+  color: var(--color-fg-muted);
+  margin-top: 28px;
+  max-width: 880px;
+}
+
+.slide--terracotta .subtitle,
+.slide--ink .subtitle { color: rgba(244, 236, 220, 0.88); }
+
+/* --- Accent couleur dans les titres (JAMAIS d'italique) --- */
+.accent { color: var(--kd-terracotta); }
+.slide--terracotta .accent { color: var(--kd-cream); }
+.slide--ink .accent        { color: var(--kd-terracotta-soft); }
+
+/* Utilitaire optionnel : soulignement épais. À combiner avec .accent
+   au cas par cas, pas systématiquement. */
+.underline {
+  text-decoration: underline;
+  text-decoration-thickness: 8px;
+  text-underline-offset: 14px;
+  text-decoration-skip-ink: none;
+  text-decoration-color: currentColor;
+}
+
+/* --- Body / paragraphes --- */
+.body {
+  font-family: var(--font-sans);
+  font-size: 30px;
+  line-height: var(--lh-relaxed);
+  color: var(--color-fg);
+  max-width: 880px;
+}
+.body + .body { margin-top: 24px; }
+
+/* --- Format hero : texte seul, gros --- */
+.hero-text {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 96px;
+  line-height: 1.12;
+  letter-spacing: var(--tracking-tight);
+  color: inherit;
+  max-width: 940px;
+}
+
+/* --- Layout helpers --- */
+.stack     { display: flex; flex-direction: column; }
+.push-down { margin-top: auto; }
+.center-y  { justify-content: center; }
+.center-x  { align-items: center; text-align: center; }
+
+/* Content-wrap : contenu centré verticalement par défaut.
+   L'eyebrow est ancré en haut de la slide via un positionnement dédié. */
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 0;
+}
+.content--top    { justify-content: flex-start; }
+.content--bottom { justify-content: flex-end; }
+
+/* ============================================================
+   CTA / bouton
+   ============================================================ */
+.cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 18px;
+  padding: 26px 44px;
+  border-radius: var(--radius-pill);
+  background: var(--kd-terracotta);
+  color: var(--kd-paper);
+  font-family: var(--font-sans);
+  font-weight: 800;
+  font-size: 30px;
+  box-shadow: var(--shadow-md);
+  align-self: flex-start;
+  margin-top: 40px;
+}
+.cta-btn svg { width: 32px; height: 32px; flex-shrink: 0; }
+.slide--terracotta .cta-btn { background: var(--kd-paper); color: var(--kd-terracotta); }
+.slide--ink .cta-btn        { background: var(--kd-terracotta); color: var(--kd-paper); }
+
+/* --- Signature (nom + rôle) sous le CTA --- */
+.signature {
+  font-family: var(--font-sans);
+  font-size: 30px;
+  font-weight: 500;
+  color: var(--color-fg-subtle);
+  margin-top: 72px;
+  max-width: 820px;
+  line-height: 1.4;
+}
+.slide--terracotta .signature,
+.slide--ink .signature { color: rgba(244, 236, 220, 0.82); }
+
+/* ============================================================
+   LISTE — variante numérotée avec pastilles
+   ============================================================ */
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  margin-top: 44px;
+  max-width: 940px;
+  counter-reset: kd-list;
+}
+.list-item {
+  font-family: var(--font-sans);
+  font-size: 32px;
+  line-height: 1.32;
+  font-weight: 500;
+  color: inherit;
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 24px;
+  align-items: start;
+  counter-increment: kd-list;
+}
+.list-item::before {
+  content: counter(kd-list);
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--kd-terracotta);
+  color: var(--kd-paper);
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  flex-shrink: 0;
+  box-shadow: var(--shadow-sm);
+}
+.slide--terracotta .list-item::before { background: var(--kd-paper); color: var(--kd-terracotta); }
+.slide--ink .list-item::before        { background: var(--kd-terracotta); color: var(--kd-paper); }
+
+/* Variante icônes : override du ::before par un span rendu dans le HTML */
+.list-item .list-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--kd-terracotta);
+  color: var(--kd-paper);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 34px;
+  line-height: 1;
+  flex-shrink: 0;
+  box-shadow: var(--shadow-sm);
+}
+.list-item--icon::before { content: none; }
+.list-item--icon { grid-template-columns: 72px 1fr; }
+.slide--terracotta .list-item .list-icon { background: var(--kd-paper); color: var(--kd-terracotta); }
+.slide--ink .list-item .list-icon        { background: var(--kd-terracotta); color: var(--kd-paper); }
+.list-item .list-icon svg { width: 34px; height: 34px; display: block; }
+
+/* ============================================================
+   VISUEL (photo)
+   ============================================================ */
+.visual {
+  width: 100%;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: var(--kd-cream-warm);
+  box-shadow: var(--shadow-md);
+  margin-top: 40px;
+  aspect-ratio: 16 / 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.visual img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+.visual--placeholder {
+  background: repeating-linear-gradient(
+    45deg,
+    var(--kd-cream-warm) 0 24px,
+    var(--kd-cream-deep) 24px 48px
+  );
+  color: var(--color-fg-muted);
+  font-family: var(--font-mono);
+  font-size: 22px;
+  padding: 24px;
+  text-align: center;
+}
+
+/* ============================================================
+   FOOTER-BAR : présent sur toutes les slides
+   Wordmark à gauche, progression + numéro à droite
+   ============================================================ */
+.footer-bar {
+  position: absolute;
+  bottom: 44px;
+  left: 88px;
+  right: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+  z-index: 2;
+}
+.footer-brand {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: var(--tracking-wide);
+  color: var(--color-fg-subtle);
+  opacity: 0.9;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.footer-brand::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--kd-terracotta);
+}
+.slide--terracotta .footer-brand,
+.slide--ink .footer-brand { color: rgba(244, 236, 220, 0.9); }
+.slide--terracotta .footer-brand::before { background: var(--kd-paper); }
+
+.footer-progress {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.footer-progress .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.25;
+}
+.footer-progress .dot.is-active {
+  opacity: 1;
+  width: 22px;
+  border-radius: var(--radius-pill);
+  background: var(--kd-terracotta);
+}
+.slide--terracotta .footer-progress .dot.is-active,
+.slide--ink .footer-progress .dot.is-active { background: var(--kd-paper); }
+
+.footer-count {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--color-fg-subtle);
+  margin-left: 16px;
+  letter-spacing: 0.05em;
+}
+.slide--terracotta .footer-count,
+.slide--ink .footer-count { color: rgba(244, 236, 220, 0.8); }
+
+/* ============================================================
+   SWIPE HINT (couverture) — grand, voyant, 3 chevrons
+   ============================================================ */
+.swipe-cta {
+  position: absolute;
+  right: 88px;
+  bottom: 130px;
+  display: inline-flex;
+  align-items: center;
+  gap: 20px;
+  padding: 22px 32px 22px 36px;
+  border-radius: var(--radius-pill);
+  background: var(--kd-paper);
+  color: var(--kd-terracotta);
+  font-family: var(--font-sans);
+  font-weight: 800;
+  font-size: 26px;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  box-shadow: var(--shadow-lg);
+  z-index: 3;
+}
+.swipe-cta .chevrons {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.swipe-cta .chevron {
+  font-size: 32px;
+  line-height: 1;
+  font-weight: 900;
+}
+.swipe-cta .chevron:nth-child(1) { opacity: 0.35; }
+.swipe-cta .chevron:nth-child(2) { opacity: 0.65; }
+.swipe-cta .chevron:nth-child(3) { opacity: 1; }
+.slide--cream .swipe-cta,
+.slide--paper .swipe-cta { background: var(--kd-terracotta); color: var(--kd-paper); }
+
+/* ============================================================
+   CTA finale — variantes visuelles pour la slide de conversion
+   ============================================================ */
+.cta-block {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.cta-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px;
+  border-radius: var(--radius-pill);
+  background: rgba(200, 98, 58, 0.16);
+  color: var(--kd-terracotta-soft);
+  font-family: var(--font-sans);
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  align-self: flex-start;
+  margin-bottom: 24px;
+}
+.slide--ink .cta-badge { background: rgba(230, 164, 135, 0.14); color: var(--kd-terracotta-soft); }
+.slide--terracotta .cta-badge { background: rgba(251, 246, 236, 0.18); color: var(--kd-paper); }
+
+/* ============================================================
+   PORTRAIT CIRCULAIRE (slide CTA finale) — bulle Mélyne + Ramsey
+   ============================================================ */
+/* Asset déjà designé pour être intégré tel quel : ni bordure, ni ombre, ni fond.
+   Placé en bas à droite pour ne jamais interférer avec un titre long. */
+.portrait {
+  position: absolute;
+  bottom: 120px;
+  right: 48px;
+  width: 391px;
+  height: 391px;
+  z-index: 1;
+  pointer-events: none;
+}
+.portrait img { width: 100%; height: 100%; object-fit: contain; display: block; }
+
+/* Sur les slides CTA avec portrait :
+   - contenu ancré en haut pour éviter le recouvrement vertical,
+   - largeur texte complète (portrait en bas droite, hors flux du texte),
+   - signature contrainte pour laisser respirer le portrait. */
+.slide--has-portrait .content { justify-content: flex-start; padding-top: 24px; }
+.slide--has-portrait .title,
+.slide--has-portrait .subtitle { max-width: 880px; }
+.slide--has-portrait .signature { max-width: 560px; }
+
+/* ============================================================
+   FORMAT QUOTE — grande citation serif
+   ============================================================ */
+.deco-quote--lg { font-size: 420px; opacity: 0.12; }
+.quote-text {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-style: normal;
+  font-size: 82px;
+  line-height: 1.18;
+  letter-spacing: var(--tracking-tight);
+  color: inherit;
+  max-width: 900px;
+}
+.quote-attribution {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 28px;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-fg-muted);
+  margin-top: 40px;
+}
+.slide--terracotta .quote-attribution,
+.slide--ink .quote-attribution { color: rgba(244, 236, 220, 0.85); }
+
+/* ============================================================
+   FORMAT STAT — chiffre géant + label + contexte
+   ============================================================ */
+.stat-block { display: flex; flex-direction: column; gap: 0; max-width: 900px; }
+.stat-number {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 340px;
+  line-height: 0.92;
+  letter-spacing: -0.03em;
+  color: var(--kd-terracotta);
+}
+.slide--terracotta .stat-number { color: var(--kd-cream); }
+.slide--ink .stat-number       { color: var(--kd-terracotta-soft); }
+.stat-label {
+  font-family: var(--font-sans);
+  font-weight: 800;
+  font-size: 30px;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-primary);
+  margin-top: 28px;
+}
+.slide--terracotta .stat-label { color: var(--kd-paper); }
+.slide--ink .stat-label        { color: var(--kd-terracotta-soft); }
+.stat-context {
+  font-family: var(--font-sans);
+  font-size: 34px;
+  line-height: 1.35;
+  color: var(--color-fg-muted);
+  margin-top: 32px;
+  max-width: 820px;
+}
+.slide--terracotta .stat-context,
+.slide--ink .stat-context { color: rgba(244, 236, 220, 0.88); }
+
+/* ============================================================
+   FORMAT COMPARISON — deux colonnes
+   ============================================================ */
+.compare {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin-top: 44px;
+  max-width: 940px;
+}
+.compare-col {
+  border-radius: var(--radius-lg);
+  padding: 32px 30px;
+  background: rgba(200, 98, 58, 0.06);
+}
+.slide--terracotta .compare-col { background: rgba(251, 246, 236, 0.10); }
+.slide--ink .compare-col        { background: rgba(230, 164, 135, 0.10); }
+.slide--paper .compare-col      { background: rgba(200, 98, 58, 0.08); }
+.compare-head {
+  font-family: var(--font-sans);
+  font-weight: 800;
+  font-size: 26px;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-primary);
+  margin-bottom: 20px;
+}
+.slide--terracotta .compare-head { color: var(--kd-paper); }
+.slide--ink .compare-head        { color: var(--kd-terracotta-soft); }
+.compare-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.compare-list li {
+  font-family: var(--font-sans);
+  font-size: 28px;
+  line-height: 1.35;
+  font-weight: 500;
+  color: inherit;
+  padding-left: 22px;
+  position: relative;
+}
+.compare-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 16px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--kd-terracotta);
+}
+.slide--terracotta .compare-list li::before { background: var(--kd-paper); }
+
+/* ============================================================
+   FORMAT CHECKLIST — items avec ✓ / ✗
+   ============================================================ */
+.checklist {
+  list-style: none;
+  padding: 0;
+  margin-top: 44px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  max-width: 940px;
+}
+.check-item {
+  font-family: var(--font-sans);
+  font-size: 32px;
+  line-height: 1.32;
+  font-weight: 500;
+  color: inherit;
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 24px;
+  align-items: start;
+}
+.check-mark {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 38px;
+  font-weight: 800;
+  line-height: 1;
+  flex-shrink: 0;
+  box-shadow: var(--shadow-sm);
+}
+.check-item--ok .check-mark { background: var(--kd-terracotta); color: var(--kd-paper); }
+.check-item--ko .check-mark { background: var(--kd-ink); color: var(--kd-paper); }
+.slide--terracotta .check-item--ok .check-mark { background: var(--kd-paper); color: var(--kd-terracotta); }
+.slide--ink .check-item--ok .check-mark        { background: var(--kd-terracotta); color: var(--kd-paper); }
+.slide--ink .check-item--ko .check-mark        { background: var(--kd-paper); color: var(--kd-ink); }
+
+/* ============================================================
+   COVER — titre plein cadre, sans visuel
+   ============================================================ */
+.content--cover { justify-content: center; }
+.content--cover .title { max-width: 940px; }
+.subtitle--cover { font-size: 38px; margin-top: 40px; max-width: 820px; }

@@ -1,0 +1,121 @@
+{
+  "name": "Adolescence chien — le mythe démonté et les vraies causes",
+  "slug": "adolescence-chien-mythe-vraies-causes",
+  "slides": [
+    {
+      "surface": "terracotta",
+      "titleSize": "display",
+      "title": "L'adolescence n'est <span class=\"accent\">pas la coupable</span>.",
+      "subtitle": "Ce que ton chien vit vraiment entre 8 et 18 mois, et ce qu'on te fait croire à la place."
+    },
+    {
+      "format": "hero",
+      "surface": "cream",
+      "text": "Ce n'est presque jamais l'âge. C'est ce qui n'a pas été posé avant."
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "LE VRAI MÉCANISME",
+      "title": "Il gagne en assurance. Pas en <span class=\"accent\">malveillance</span>.",
+      "subtitle": "Ton chien ne complote pas contre toi. Il constate juste qu'il peut s'autoriser des choses là où tu ne tiens plus fermement les règles. Là où c'est solide, il continue de suivre. Là où c'est devenu flou, il prend ses aises. C'est mécanique."
+    },
+    {
+      "format": "quote",
+      "surface": "cream",
+      "quote": "Un chien stable avant l'adolescence le reste pendant."
+    },
+    {
+      "format": "list",
+      "surface": "cream",
+      "title": "5 vraies causes derrière « il n'écoute plus »",
+      "titleSize": "md",
+      "items": [
+        "Cadre flou depuis le début, devenu flagrant avec le gabarit.",
+        "Incohérence à la maison, chacun autorise ce que l'autre interdit.",
+        "Socialisation incomplète, ou hyper-socialisation mal cadrée.",
+        "Besoins physiques et surtout mentaux qui ont explosé sans que tu suives.",
+        "Acquis qu'on n'entretient plus, verbiage constant qui vide tes ordres."
+      ]
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "CAUSE 1 — INCOHÉRENCE FAMILIALE",
+      "title": "Le chien navigue entre des règles qui se contredisent.",
+      "subtitle": "L'un autorise le canapé, l'autre l'interdit. L'un reprend un ordre resté sans réponse par-dessus l'autre. Tant qu'il est petit, ces arrangements passent. À l'adolescence, avec le gabarit qui va avec, ils deviennent ingérables. S'il estime que les règles ne sont plus fiables, il prend lui-même les décisions."
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "cream",
+      "eyebrow": "CAUSE 2 — CADRE FLOU DEPUIS LE DÉBUT",
+      "title": "Un comportement qui faisait sourire à 3 mois devient pénible à 10.",
+      "subtitle": "J'ai suivi un staffie de 10 mois, très gentil, qui sautait sur les invités, attrapait les manches, aboyait pour réclamer. Rien de grave, mais aucun cadre structuré depuis le début. Le chien ne savait pas ce qu'on attendait de lui, alors il montait en excitation pour obtenir une réaction. Rien à voir avec la puberté."
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "CAUSE 3 — SOCIALISATION",
+      "title": "La fenêtre se referme vers 4 mois et demi. La facture tombe à l'adolescence.",
+      "subtitle": "Tout ce que le chiot n'a pas rencontré pendant cette période peut devenir une source de méfiance plus tard. L'inverse existe aussi : trop de contacts obsessionnels avec d'autres chiens et tu obtiens un jeune chien incapable de renoncer à eux. Beaucoup de rencontres, peu d'obsession, c'est l'équilibre."
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "cream",
+      "eyebrow": "CAUSE 4 — BESOINS EN EXPLOSION",
+      "title": "Un chiot se contente de peu. Un jeune chien, non.",
+      "subtitle": "Ses besoins de dépense, de mastication, de jeu, d'interaction et surtout de réflexion explosent. Beaucoup de propriétaires gardent le même rythme qu'au début. Résultat : un chien qui rentre de balade encore surexcité, parce qu'elle n'a rien fatigué. Faire réfléchir un chien le fatigue dix fois plus que de le faire courir."
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "CAUSE 5 — ACQUIS QUI S'ÉTEIGNENT",
+      "title": "Un ordre appris n'est pas gravé dans le <span class=\"accent\">marbre</span>.",
+      "subtitle": "On apprend un comportement au chiot, il le connaît, on arrête de le récompenser. Un comportement qu'on ne valorise plus finit par s'éteindre. Ajoute à ça un flot continu de « viens, non, attends, regarde, ici » en balade, tes mots deviennent un bruit de fond. Ton chien filtre ta voix."
+    },
+    {
+      "format": "comparison",
+      "surface": "cream",
+      "title": "Les hormones, ce qu'elles font vraiment",
+      "columns": {
+        "leftTitle": "Ce qu'elles font",
+        "leftItems": [
+          "Amplifient à la marge ce qui existe déjà.",
+          "Un peu de parade entre mâles entiers.",
+          "Quelques comportements à ne pas laisser s'installer."
+        ],
+        "rightTitle": "Ce qu'elles ne font pas",
+        "rightItems": [
+          "Créer un chien ingérable là où le cadre tient.",
+          "Casser des bases solides.",
+          "Justifier « il a changé, je n'y peux rien »."
+        ]
+      }
+    },
+    {
+      "format": "checklist",
+      "surface": "paper",
+      "title": "Ce qu'on met à tort sur le dos de l'adolescence",
+      "items": [
+        { "kind": "ko", "text": "Fugue : presque toujours un défaut de lien social, pas les hormones." },
+        { "kind": "ko", "text": "Anxiété de séparation qui apparaît : regarder les changements de quotidien, pas l'âge." },
+        { "kind": "ko", "text": "« C'est la stérilisation qui l'a changé » : c'est souvent le quotidien autour qui a changé." },
+        { "kind": "ok", "text": "Toutes ces situations se retravaillent, étape par étape." }
+      ]
+    },
+    {
+      "format": "hero",
+      "surface": "ink",
+      "text": "Le chien n'a pas changé tout seul. Les habitudes qu'on l'a laissé prendre l'ont amené là."
+    },
+    {
+      "format": "cta",
+      "surface": "ink",
+      "title": "L'adolescence, je la travaille très régulièrement.",
+      "subtitle": "Bilan à domicile offert dans la région bordelaise. Suivi WhatsApp 7j/7.",
+      "titleSize": "md",
+      "cta": "Prendre un suivi",
+      "signature": "Mélyne — Kind Dog Training, éducatrice canin région bordelaise."
+    }
+  ]
+}

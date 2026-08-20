@@ -1,0 +1,130 @@
+{
+  "name": "Adolescence chien — reprendre en main plutôt qu'attendre",
+  "slug": "adolescence-chien-reprendre-en-main",
+  "slides": [
+    {
+      "surface": "cream",
+      "titleSize": "display",
+      "title": "Arrête d'attendre que <span class=\"accent\">l'adolescence</span> passe.",
+      "subtitle": "Le vrai protocole pour reprendre ton jeune chien en main, étape par étape."
+    },
+    {
+      "format": "hero",
+      "surface": "terracotta",
+      "text": "Attendre, c'est laisser les mauvaises habitudes se graver dans le marbre."
+    },
+    {
+      "format": "quote",
+      "surface": "paper",
+      "quote": "Chaque jour compte dans le mauvais sens comme dans le bon."
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "cream",
+      "eyebrow": "POURQUOI CE N'EST PAS ANODIN",
+      "title": "Un chien qui obtient ce qu'il veut valide son comportement tout seul.",
+      "subtitle": "Chien qui tire et qui arrive où il veut : tirer marche. Chien qui aboie et qui obtient une réaction : aboyer paie. Plus tu laisses filer, plus le comportement se grave. Crier plus fort n'a jamais rien réglé. Il faut retravailler à la racine."
+    },
+    {
+      "format": "list",
+      "surface": "cream",
+      "title": "Les 4 leviers, dans l'ordre",
+      "titleSize": "md",
+      "items": [
+        "Saturer les besoins physiques et surtout mentaux avant de demander quoi que ce soit.",
+        "Travailler le renoncement et l'auto-contrôle par petits exercices répétés.",
+        "Alléger la parole en balade pour redonner du poids à tes mots.",
+        "Restaurer le suivi naturel avec la longe pour ne jamais le mettre en échec total."
+      ]
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "LEVIER 1 — LES BESOINS",
+      "title": "Un chien qui déborde <span class=\"accent\">n'apprend rien</span>.",
+      "subtitle": "Aucune obéissance ne tient sur un chien qui n'a pas dépensé son trop-plein. Un chien mentalement satisfait se pose et redevient disponible. Un chien frustré, tu peux lui répéter « assis » cent fois, tu parles dans le vide. On comble d'abord, on demande ensuite."
+    },
+    {
+      "format": "checklist",
+      "surface": "cream",
+      "title": "Ce qui fatigue vraiment ton chien",
+      "items": [
+        { "kind": "ok", "text": "Une balade où il renifle, explore, réfléchit, interagit." },
+        { "kind": "ok", "text": "Du jeu qui sollicite sa tête, pas juste ses pattes." },
+        { "kind": "ok", "text": "De la mastication longue à la maison." },
+        { "kind": "ko", "text": "Une heure de course derrière une balle : il rentre encore plus excité." },
+        { "kind": "ko", "text": "Toujours le même parcours de balade sans stimulation nouvelle." }
+      ]
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "LEVIER 2 — L'AUTO-CONTRÔLE",
+      "title": "Un chien qui n'a jamais appris à renoncer veut tout, tout de suite.",
+      "subtitle": "C'est là que tu te retrouves avec un jeune chien qui aboie avec insistance, qui tire pour aller voir un copain, qui n'arrive pas à patienter. L'auto-contrôle se travaille comme un muscle, par petits exercices répétés. Ça débloque plus de choses que n'importe quel ordre appris cent fois."
+    },
+    {
+      "format": "list",
+      "surface": "cream",
+      "title": "3 exercices concrets d'auto-contrôle",
+      "titleSize": "md",
+      "items": [
+        "Faire patienter devant la gamelle avant d'autoriser le repas.",
+        "Demander un regard vers toi avant de donner l'accès à ce qu'il veut.",
+        "Apprendre à se poser face à une balle lancée sans se précipiter."
+      ]
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "LEVIER 3 — MOINS PARLER",
+      "title": "À force de parler, tes ordres ne veulent plus rien dire.",
+      "subtitle": "« Allez, viens, non, attends, regarde, ici, doucement, viens je t'ai dit. » Avec les meilleures intentions, tu noies tes ordres dans un flot continu. Ton chien filtre ta voix comme un bruit de fond. Moins tu parles en travaillant, plus chaque mot reprend de la valeur."
+    },
+    {
+      "format": "comparison",
+      "surface": "cream",
+      "title": "Trop parler vs parler juste",
+      "columns": {
+        "leftTitle": "Ce qui bloque",
+        "leftItems": [
+          "Commentaire permanent sur ce qu'il fait.",
+          "Répéter un ordre 3, 4, 5 fois d'affilée.",
+          "Parler pour combler ton propre stress."
+        ],
+        "rightTitle": "Ce qui marche",
+        "rightItems": [
+          "Silence pendant qu'il renifle et gère.",
+          "Un mot, une seule fois, tenu jusqu'au bout.",
+          "Récompenser sans dire un mot quand c'est juste."
+        ]
+      }
+    },
+    {
+      "format": "title-subtitle",
+      "surface": "paper",
+      "eyebrow": "LEVIER 4 — LE SUIVI NATUREL",
+      "title": "Redeviens l'élément le plus intéressant de la sortie.",
+      "subtitle": "Quand le rappel se dégrade, le réflexe est de crier plus fort. Ça ne fonctionne pas. Ce qu'il faut retrouver, c'est le suivi naturel : la tendance instinctive du chien à rester connecté à toi par envie et non sur ordre. La longe est précieuse pour ça : liberté au chien, connexion retravaillée, jamais d'échec total."
+    },
+    {
+      "format": "quote",
+      "surface": "terracotta",
+      "quote": "Un chien qui vit de belles choses avec toi n'a aucun intérêt à te planter."
+    },
+    {
+      "format": "hero",
+      "surface": "ink",
+      "text": "Si c'est toi qui l'as amené là, c'est aussi toi qui peux l'en sortir."
+    },
+    {
+      "format": "cta",
+      "surface": "ink",
+      "title": "Reprendre un jeune chien en main, c'est ce que je fais tous les jours.",
+      "subtitle": "Bilan à domicile offert dans la région bordelaise. Suivi WhatsApp 7j/7.",
+      "titleSize": "md",
+      "cta": "Réserver un bilan",
+      "signature": "Mélyne — Kind Dog Training, éducatrice canin région bordelaise."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+/* ============================================================
+   KIND DOG TRAINING — Design Tokens
+   Colors, type, spacing, radii, shadows
+   ============================================================ */
+
+/* --- Font loading (Google Fonts substitution, see README) ---- */
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Nunito:wght@400;500;600;700;800&display=swap');
+
+:root {
+  /* ============================================================
+     COLOR — Brand
+     ============================================================ */
+  --kd-terracotta:        #C8623A;   /* primary — warmth, signature */
+  --kd-terracotta-deep:   #A14B27;   /* hover / pressed */
+  --kd-terracotta-soft:   #E6A487;   /* tinted backgrounds, badges */
+  --kd-cream:             #F4ECDC;   /* secondary — page background */
+  --kd-cream-warm:        #EFE3CB;   /* surface raised on cream */
+  --kd-cream-deep:        #E5D6B8;   /* divider / hairlines on cream */
+
+  /* Neutrals — warm-biased, never pure gray */
+  --kd-ink:               #2A1E15;   /* primary text, near-black with brown bias */
+  --kd-bark:              #4F3A2A;   /* secondary text */
+  --kd-fawn:              #7A6552;   /* tertiary / captions */
+  --kd-stone:             #B8A892;   /* disabled / placeholder */
+  --kd-paper:             #FBF6EC;   /* lightest surface, above cream */
+  --kd-white:             #FFFFFF;
+
+  /* Supporting accents — drawn from natural Bordeaux palette */
+  --kd-olive:             #6E7A4A;   /* success / nature accent */
+  --kd-olive-soft:        #D9DCC4;
+  --kd-vine:              #6B2C2C;   /* deep wine — reserved emphasis */
+  --kd-sky:               #A8B8C2;   /* info, calm */
+
+  /* Semantic */
+  --color-bg:             var(--kd-cream);
+  --color-surface:        var(--kd-paper);
+  --color-surface-raised: var(--kd-white);
+  --color-border:         var(--kd-cream-deep);
+  --color-border-strong:  var(--kd-stone);
+
+  --color-fg:             var(--kd-ink);
+  --color-fg-muted:       var(--kd-bark);
+  --color-fg-subtle:      var(--kd-fawn);
+  --color-fg-disabled:    var(--kd-stone);
+
+  --color-primary:        var(--kd-terracotta);
+  --color-primary-hover:  var(--kd-terracotta-deep);
+  --color-primary-soft:   var(--kd-terracotta-soft);
+  --color-on-primary:     var(--kd-paper);
+
+  --color-success:        var(--kd-olive);
+  --color-info:           var(--kd-sky);
+  --color-emphasis:       var(--kd-vine);
+
+  /* ============================================================
+     TYPE — Families
+     Newsreader: warm humanist serif (book / magazine feel)
+     Nunito: rounded humanist sans, friendly & approachable
+     ============================================================ */
+  --font-serif:   'Newsreader', 'Iowan Old Style', Georgia, serif;
+  --font-sans:    'Nunito', 'SF Pro Rounded', system-ui, sans-serif;
+  --font-mono:    ui-monospace, 'SF Mono', 'JetBrains Mono', monospace;
+
+  /* Type scale — slightly larger than tech defaults; reads warm and editorial */
+  --fs-xs:   12px;
+  --fs-sm:   14px;
+  --fs-base: 17px;   /* body */
+  --fs-md:   19px;
+  --fs-lg:   22px;
+  --fs-xl:   28px;
+  --fs-2xl:  36px;
+  --fs-3xl:  48px;
+  --fs-4xl:  64px;
+  --fs-5xl:  88px;
+
+  --lh-tight:   1.08;
+  --lh-snug:    1.22;
+  --lh-normal:  1.5;
+  --lh-relaxed: 1.65;
+
+  --tracking-tight:  -0.02em;
+  --tracking-normal: 0;
+  --tracking-wide:   0.04em;
+  --tracking-caps:   0.12em;
+
+  /* ============================================================
+     SPACING — 4px base, generous for an airy editorial feel
+     ============================================================ */
+  --sp-0:  0;
+  --sp-1:  4px;
+  --sp-2:  8px;
+  --sp-3:  12px;
+  --sp-4:  16px;
+  --sp-5:  20px;
+  --sp-6:  24px;
+  --sp-8:  32px;
+  --sp-10: 40px;
+  --sp-12: 48px;
+  --sp-16: 64px;
+  --sp-20: 80px;
+  --sp-24: 96px;
+  --sp-32: 128px;
+
+  /* ============================================================
+     RADII — soft, never sharp, never fully pill except for tags
+     ============================================================ */
+  --radius-xs:   4px;
+  --radius-sm:   8px;
+  --radius-md:   12px;
+  --radius-lg:   18px;
+  --radius-xl:   28px;
+  --radius-2xl:  40px;
+  --radius-pill: 999px;
+
+  /* ============================================================
+     SHADOWS — warm, low-key, never blue/cool
+     ============================================================ */
+  --shadow-xs:  0 1px 2px rgba(74, 47, 28, 0.06);
+  --shadow-sm:  0 2px 6px rgba(74, 47, 28, 0.08);
+  --shadow-md:  0 8px 20px -8px rgba(74, 47, 28, 0.18), 0 2px 4px rgba(74, 47, 28, 0.06);
+  --shadow-lg:  0 20px 40px -16px rgba(74, 47, 28, 0.22), 0 4px 8px rgba(74, 47, 28, 0.08);
+  --shadow-inset: inset 0 1px 2px rgba(74, 47, 28, 0.08);
+
+  /* Focus ring — terracotta-tinted, accessible */
+  --ring: 0 0 0 3px rgba(200, 98, 58, 0.28);
+
+  /* Motion */
+  --ease-out:    cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast:   140ms;
+  --dur-base:   220ms;
+  --dur-slow:   400ms;
+}
+
+/* ============================================================
+   SEMANTIC TYPOGRAPHY — apply directly on elements
+   ============================================================ */
+
+html, body {
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  line-height: var(--lh-normal);
+  color: var(--color-fg);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.kd-display, h1.kd-display {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: var(--fs-5xl);
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--color-fg);
+}
+
+.kd-h1, h1 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: var(--fs-4xl);
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+}
+
+.kd-h2, h2 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: var(--fs-3xl);
+  line-height: var(--lh-snug);
+  letter-spacing: var(--tracking-tight);
+}
+
+.kd-h3, h3 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: var(--fs-2xl);
+  line-height: var(--lh-snug);
+}
+
+.kd-h4, h4 {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: var(--fs-xl);
+  line-height: var(--lh-snug);
+}
+
+.kd-eyebrow {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: var(--fs-xs);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-primary);
+}
+
+.kd-lede {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-style: italic;
+  font-size: var(--fs-lg);
+  line-height: var(--lh-relaxed);
+  color: var(--color-fg-muted);
+}
+
+.kd-body, p {
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  line-height: var(--lh-relaxed);
+  color: var(--color-fg);
+}
+
+.kd-small {
+  font-size: var(--fs-sm);
+  color: var(--color-fg-muted);
+  line-height: var(--lh-normal);
+}
+
+.kd-caption {
+  font-size: var(--fs-xs);
+  color: var(--color-fg-subtle);
+  letter-spacing: var(--tracking-wide);
+}
+
+.kd-quote {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--fs-xl);
+  line-height: var(--lh-relaxed);
+  color: var(--color-fg-muted);
+}

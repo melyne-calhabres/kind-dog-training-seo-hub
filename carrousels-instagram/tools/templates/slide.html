@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="./_base.css" />
+</head>
+<body>
+  <section class="slide slide--{{surface}} {{#hasPortrait}}slide--has-portrait{{/hasPortrait}} {{#isQuote}}slide--quote{{/isQuote}} {{#isStat}}slide--stat{{/isStat}}">
+    {{#isHero}}<div class="deco-quote">"</div>{{/isHero}}
+    {{#isQuote}}<div class="deco-quote deco-quote--lg">"</div>{{/isQuote}}
+    {{^isHero}}{{^isQuote}}<div class="deco-arc deco-arc--br"></div>{{/isQuote}}{{/isHero}}
+    {{#isCta}}<div class="deco-dots deco-dots--tr"></div>{{/isCta}}
+    {{#isStat}}<div class="deco-dots deco-dots--tr"></div>{{/isStat}}
+
+    {{^isHero}}{{^isQuote}}{{#eyebrow}}<div class="eyebrow">{{eyebrow}}</div>{{/eyebrow}}{{/isQuote}}{{/isHero}}
+
+    <div class="content {{#isHero}}center-y{{/isHero}} {{#isQuote}}center-y{{/isQuote}} {{#isStat}}center-y{{/isStat}}">
+      {{#isHero}}
+        <p class="hero-text">{{{text}}}</p>
+      {{/isHero}}
+
+      {{#isQuote}}
+        <blockquote class="quote-text">{{{quote}}}</blockquote>
+        {{#attribution}}<p class="quote-attribution">— {{attribution}}</p>{{/attribution}}
+      {{/isQuote}}
+
+      {{#isStat}}
+        <div class="stat-block">
+          <div class="stat-number">{{{stat}}}</div>
+          {{#statLabel}}<div class="stat-label">{{{statLabel}}}</div>{{/statLabel}}
+          {{#statContext}}<p class="stat-context">{{{statContext}}}</p>{{/statContext}}
+        </div>
+      {{/isStat}}
+
+      {{#isTitleSubtitle}}
+        <h2 class="title title--{{titleSize}}">{{{title}}}</h2>
+        {{#subtitle}}<p class="subtitle">{{{subtitle}}}</p>{{/subtitle}}
+        {{#body}}<p class="body">{{{body}}}</p>{{/body}}
+      {{/isTitleSubtitle}}
+
+      {{#isList}}
+        {{#title}}<h2 class="title title--{{titleSize}}">{{{title}}}</h2>{{/title}}
+        {{#subtitle}}<p class="subtitle">{{{subtitle}}}</p>{{/subtitle}}
+        <ul class="list">
+          {{#items}}
+            {{#iconHtml}}<li class="list-item list-item--icon"><span class="list-icon">{{{iconHtml}}}</span><span>{{{text}}}</span></li>{{/iconHtml}}
+            {{^iconHtml}}<li class="list-item"><span>{{{text}}}</span></li>{{/iconHtml}}
+          {{/items}}
+        </ul>
+      {{/isList}}
+
+      {{#isChecklist}}
+        {{#title}}<h2 class="title title--{{titleSize}}">{{{title}}}</h2>{{/title}}
+        {{#subtitle}}<p class="subtitle">{{{subtitle}}}</p>{{/subtitle}}
+        <ul class="checklist">
+          {{#items}}
+            <li class="check-item {{#isOk}}check-item--ok{{/isOk}} {{#isKo}}check-item--ko{{/isKo}}">
+              <span class="check-mark">{{#isOk}}✓{{/isOk}}{{#isKo}}✗{{/isKo}}</span>
+              <span>{{{text}}}</span>
+            </li>
+          {{/items}}
+        </ul>
+      {{/isChecklist}}
+
+      {{#isComparison}}
+        {{#title}}<h2 class="title title--{{titleSize}}">{{{title}}}</h2>{{/title}}
+        {{#subtitle}}<p class="subtitle">{{{subtitle}}}</p>{{/subtitle}}
+        <div class="compare">
+          <div class="compare-col compare-col--left">
+            {{#left}}{{#title}}<div class="compare-head">{{title}}</div>{{/title}}
+            <ul class="compare-list">
+              {{#items}}<li>{{{.}}}</li>{{/items}}
+            </ul>{{/left}}
+          </div>
+          <div class="compare-col compare-col--right">
+            {{#right}}{{#title}}<div class="compare-head">{{title}}</div>{{/title}}
+            <ul class="compare-list">
+              {{#items}}<li>{{{.}}}</li>{{/items}}
+            </ul>{{/right}}
+          </div>
+        </div>
+      {{/isComparison}}
+
+      {{#isCta}}
+        <div class="cta-block">
+          <h2 class="title title--{{titleSize}}">{{{title}}}</h2>
+          {{#subtitle}}<p class="subtitle">{{{subtitle}}}</p>{{/subtitle}}
+          {{#cta}}
+            <span class="cta-btn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2.5" y="2.5" width="19" height="19" rx="5.5"/>
+                <circle cx="12" cy="12" r="4.2"/>
+                <circle cx="17.4" cy="6.6" r="1.1" fill="currentColor"/>
+              </svg>
+              <span>{{cta}}</span>
+            </span>
+          {{/cta}}
+          {{#signature}}<p class="signature">{{signature}}</p>{{/signature}}
+        </div>
+      {{/isCta}}
+
+      {{^isCta}}{{^isQuote}}{{^isStat}}{{^isComparison}}{{^isChecklist}}
+        {{#visual}}
+          {{#hasImage}}
+            <div class="visual"><img src="{{imagePath}}" alt="" /></div>
+          {{/hasImage}}
+          {{^hasImage}}
+            <div class="visual visual--placeholder">Asset attendu : {{name}}</div>
+          {{/hasImage}}
+        {{/visual}}
+      {{/isChecklist}}{{/isComparison}}{{/isStat}}{{/isQuote}}{{/isCta}}
+    </div>
+
+    {{#hasPortrait}}
+      {{#visual}}<div class="portrait"><img src="{{imagePath}}" alt="" /></div>{{/visual}}
+    {{/hasPortrait}}
+
+    <div class="footer-bar">
+      <span class="footer-brand">Kind Dog Training</span>
+      <span class="footer-progress" aria-hidden="true">
+        {{#progressDots}}<span class="dot {{#isActive}}is-active{{/isActive}}"></span>{{/progressDots}}
+        <span class="footer-count">{{slideNumberPadded}} / {{totalSlidesPadded}}</span>
+      </span>
+    </div>
+  </section>
+</body>
+</html>
