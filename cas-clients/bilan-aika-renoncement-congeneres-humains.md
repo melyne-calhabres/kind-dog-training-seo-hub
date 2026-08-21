@@ -80,3 +80,121 @@ Séance extrêmement positive. Aika a très bien travaillé sur l'ensemble des e
 - Renoncement aux congénères en longe : pincer la longe dès la montée en excitation, attendre le retour au calme et le contact visuel, récompenser et reprendre l'avancée.
 - Assis pas bougé avec distractions : se positionner face à la chienne, yeux dans les yeux, friandises régulières, sans répéter les ordres. Y aller progressivement et calmement.
 - Limiter le temps au parc à chiens pour éviter la sur-stimulation.
+
+---
+
+## Bilan S3
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail sur des règles de vie à domicile : interdiction du canapé, tenue au panier, absence de sauts et respect des trottoirs.
+
+### DÉROULÉ DU COURS
+
+- Interdiction du canapé : inciter Aïka à monter, dire non dès qu'elle pose une patte, récompenser le maintien des quatre pattes au sol.
+- Au panier : demander à Aïka de s'installer avec les quatre pattes dans le panier, se déplacer autour d'elle, dire non si elle bouge, récompenser si elle reste, autoriser la sortie sur commande uniquement.
+- Sauts : lancer une partie de jeu pour l'exciter, dire non dès qu'elle saute, reproduire le même exercice avec un jouet à mâchouiller de type corde.
+- Trottoirs : inciter Aïka à traverser, dire non dès qu'elle pose une patte sur la route, récompenser l'attente, utiliser un mot de passage pour autoriser la traversée — ne jamais récompenser le fait de traverser.
+
+### PROGRESSION / RÉSULTATS
+
+Séance très complète et productive. Aïka a travaillé sur plusieurs règles de vie en simultané. L'éducatrice se montre très satisfaite de l'ensemble de la séance.
+
+### EXERCICES À TRAVAILLER
+
+- Canapé : provoquer Aïka à monter, dire non dès qu'elle pose une patte, récompenser le maintien au sol.
+- Panier : placer Aïka au panier, se déplacer autour d'elle, dire non si elle bouge, récompenser si elle tient, n'autoriser la sortie que sur commande.
+- Sauts : lancer une session de jeu pour exciter Aïka, dire non dès qu'elle saute — reproduire avec un jouet corde.
+- Trottoirs : inciter à traverser, dire non à chaque patte posée sur la route, récompenser l'attente, utiliser le mot de passage pour traverser, ne jamais récompenser la traversée elle-même.
+
+---
+
+## Bilan S4
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail de la marche en laisse (système des allers-retours), rappel de la traversée de route, gestion du comportement de mordillement des pompons d'un siège.
+
+### DÉROULÉ DU COURS
+
+1. Marche en laisse — système des allers-retours : dès qu'Aïka dépasse la jambe, demi-tour. Récompense (friandise, voix, caresse) lorsqu'elle marche correctement à la jambe.
+2. Traversée de la route : exercice revu.
+3. Comportement autour des pompons d'un siège : Aïka mordille les pompons, notamment lorsque des personnes sont assises dessus. Dire « non » systématiquement et rediriger vers un jouet à mâchouiller.
+
+### PROGRESSION / RÉSULTATS
+
+La traversée de la route est très bien maîtrisée par Aïka.
+
+### EXERCICES À TRAVAILLER
+
+- Marche en laisse (allers-retours) : travailler 5 à 10 minutes par jour après la balade, jusqu'à ce que l'exercice soit bien compris. Passer ensuite à de vraies balades en laisse dans des environnements plus stimulants.
+- Pompons du siège : dire « non » dès qu'Aïka commence à mordiller, rediriger systématiquement vers un jouet à mâchouiller.
+
+---
+
+## Bilan S5
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail sur la gestion des émotions à travers plusieurs exercices de self-contrôle avec la chienne.
+
+### DÉROULÉ DU COURS
+
+1. Pas bouger — balle : on jette la balle, Aïka ne doit pas y aller. Exercice maîtrisé.
+2. Pas bouger — rappel avec jouets : on pose Aïka en pas bouger, on s'éloigne à 5 mètres, on jette des jouets, puis on la rappelle à l'endroit où on était.
+3. Pas bouger — canne à flirt pole (statique) : on agite la canne avec le jouet devant Aïka sans lui demander de bouger. Elle doit se contrôler et rester en position malgré le stimulus.
+4. Pas bouger — canne à flirt pole (envoi + rappel) : on l'envoie sur la canne, puis on la rappelle immédiatement après.
+
+### PROGRESSION / RÉSULTATS
+
+Les exercices avec la balle et les jouets sont bien maîtrisés. La canne à flirt pole représente un niveau de difficulté nettement supérieur pour Aïka, qui doit fournir beaucoup d'efforts pour se contrôler — signe que cet exercice travaille exactement ce qu'il faut.
+
+### EXERCICES À TRAVAILLER
+
+- Continuer l'ensemble des exercices de self-contrôle à la maison selon la progression travaillée en séance.
+
+---
+
+## Bilan S6 — Cours collectif
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Cours collectif — travail du renoncement congénère, du rappel et des croisements congénères.
+
+### DÉROULÉ DU COURS
+
+- Renoncement congénère : travail en présence de 8 chiens. Aïka tire fortement et cherche à aller voir tous les congénères présents. Sa montée en excitation est très rapide.
+- Rappel et croisements congénères : exercices travaillés dans le groupe avec les autres chiens présents.
+- Gestion émotionnelle globale : Aïka montre une grande joie d'être là, ce qui rend la gestion des émotions particulièrement difficile dans ce contexte.
+
+### PROGRESSION / RÉSULTATS
+
+Les exercices ont été globalement bien réussis malgré la difficulté du contexte (8 chiens présents). La gestion émotionnelle en présence de congénères reste le principal point à travailler. Très bonne séance dans l'ensemble.
+
+### EXERCICES À TRAVAILLER
+
+- Au parc à chiens : demander un pas bouger avant de libérer Aïka pour aller retrouver les congénères. Ne pas la laisser foncer sans autorisation.
+- En balade : ne pas laisser Aïka aller voir systématiquement tous les chiens croisés. Sur cinq rencontres, en autoriser environ trois. L'objectif est de lui imposer progressivement de petites limites pour apprendre à gérer ses émotions et à redescendre en pression.
+
+---
+
+## Bilan S7
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Séance individuelle en présence de Solo (chien référent). Objectif : travailler la gestion des émotions face au congénère — ne pas tirer vers le chien, respecter sa communication et maintenir une distance adaptée.
+
+### DÉROULÉ DU COURS
+
+- Début de séance avec du tirage en laisse en direction de Solo.
+- Mise en place de l'exercice de rappel au regard : dès qu'Aïka tire, arrêt, prononciation de son prénom. Au regard, marqueur positif "oui", recul, récompense.
+- Solo a recadré Aïka de manière très ferme à plusieurs reprises suite à ses approches.
+
+### PROGRESSION / RÉSULTATS
+
+L'exercice de rappel au regard a permis de corriger le tirage rapidement après le début de séance. La communication de Solo a été très efficace : Aïka a intégré le signal et a cessé de s'approcher du chien. Bonne réceptivité globale au cours de la séance.
+
+### EXERCICES À TRAVAILLER
+
+- Exercice de rappel au regard en laisse : si Aïka tire, s'arrêter et prononcer son prénom. Dès qu'elle tourne la tête et établit un contact visuel, marquer "oui", reculer et récompenser.
+- Travailler la neutralité face au congénère : se positionner à distance de confort et récompenser les moments de calme sans interaction avec le chien.

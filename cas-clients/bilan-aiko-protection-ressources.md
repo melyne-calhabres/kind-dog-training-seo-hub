@@ -227,3 +227,159 @@ En début de séance, Aiko réagissait légèrement lors de la caresse de Vi. En
 - Protection de ressources : mettre Aiko en "pas bougé" et caresser un autre chien. S'il réagit : "non" et remise en place. S'il ne réagit pas : le caresser et lui donner une friandise.
 - Rappel : travailler à la longe. Envoyer de petits coups de sonnette pour lui rappeler la présence du propriétaire. Récompenser le retour sur demande.
 - Renoncement : se positionner en sous-positionnement sur le côté. Attendre qu'Aiko donne son regard avant de récompenser.
+
+---
+
+## Bilan S5
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Retravail des croisements congénères et des stops à distance. Renforcement du rappel avec distractions.
+
+### DÉROULÉ DU COURS
+
+- Croisements congénères : anticiper le croisement avant qu'Aiko ne se couche. Trottiner à côté de lui pour le motiver à passer lorsqu'on ne souhaite pas croiser. Si l'on souhaite qu'il aille voir le chien, c'est uniquement sur autorisation — il ne peut pas y aller en tirant sur la longe.
+- Stops à distance : laisser Aiko prendre de l'avance, puis donner le stop. S'il continue d'avancer, poser le pied sur la longe (sanction). Ajout progressif de distractions : jouets jetés au sol, personnes qui courent à côté, etc.
+- Rappel avec « pas bougé » : mise au pas bougé à 5 mètres, recul, rappel avec jets de jouets simultanés. L'objectif est qu'Aiko revienne jusqu'au bout malgré les distractions. Varier les contextes et les distractions pour fiabiliser le rappel.
+
+### PROGRESSION / RÉSULTATS
+
+Très bonne séance dans l'ensemble. Aiko a bien répondu aux exercices travaillés. L'accent est mis sur la recherche de collaboration et de plaisir dans le travail, en accord avec son profil de type primitif (Pomsky).
+
+### EXERCICES À TRAVAILLER
+
+- Croisements congénères : anticiper avant qu'il se couche, trottiner à côté pour l'encourager à passer. Toute interaction avec un autre chien uniquement sur autorisation, jamais en tirant sur la longe.
+- Stops à distance : laisser prendre de l'avance, donner le stop. En cas de non-respect, poser le pied sur la longe. Varier les distractions (jouets au sol, personnes qui bougent autour).
+- Rappel : mettre au « pas bougé » à 5 mètres, reculer, rappeler en jetant des jouets en même temps. Varier les contextes pour solidifier le rappel.
+
+---
+
+## Bilan S8
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Remise en place d'un cadre efficace sur le passage des portes (porte d'entrée, portail) et des trottoirs.
+
+### DÉROULÉ DU COURS
+
+- Aïko doit être assis et attendre l'autorisation avant de franchir toute porte ou portail
+- Si Aïko tente de sortir sans autorisation : marqueur négatif "non" et reprise depuis le début
+- Si Aïko ne sort pas spontanément : on peut le tenter (passer devant lui, lancer des jouets…) — s'il tient sa position, récompense et autorisation de passer
+- S'il sort sans autorisation : "non", on referme la porte et on recommence
+- Même protocole appliqué aux trottoirs
+
+### PROGRESSION / RÉSULTATS
+
+Très bonne séance. Aïko a très bien réussi l'exercice.
+
+### EXERCICES À TRAVAILLER
+
+- Passage de porte / portail / trottoir : position assise, attendre l'autorisation. Si tentative de passage sans autorisation → "non" et recommencer depuis le début. Si non-sortie spontanée → tenter avec jouets/passage devant, récompenser si la position est tenue. Même protocole aux trottoirs.
+
+---
+
+## Bilan S9
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail du calme et de la capacité à se poser en collaboration, sans ordre donné.
+
+### DÉROULÉ DU COURS
+
+- Installation sur un banc, longe légèrement raccourcie
+- Aucune interaction verbale ou visuelle avec Aïko pendant l'exercice
+- Dès qu'Aïko s'assoit spontanément : récompense immédiate, quelques instants d'attente, puis départ
+
+### PROGRESSION / RÉSULTATS
+
+Bonne progression au cours de la séance. L'exercice reste complexe pour Aïko et demandera de nombreuses répétitions avant d'être consolidé.
+
+### EXERCICES À TRAVAILLER
+
+- Se poser sur un banc, raccourcir légèrement la longe. Ne pas parler à Aïko, ne pas le regarder. Dès qu'il s'assoit spontanément, récompenser calmement. Attendre quelques instants, puis se lever et repartir.
+
+---
+
+## Bilan S10
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail du renoncement congénère avec Vans comme chien référent.
+
+### DÉROULÉ DU COURS
+
+- Session de jeu libre avec Vans en début de séance pour abaisser le niveau d'excitation
+- Enchaînement des exercices : passer à côté sans tirer → rester calé en statique → bouger devant un chien statique
+
+### PROGRESSION / RÉSULTATS
+
+Bonne réussite des exercices. La session de jeu préalable avec Vans a facilité l'accès au travail.
+
+### EXERCICES À TRAVAILLER
+
+- Légère saccade sur la longe lorsqu'il tire pour aller voir le congénère + « Aïko, non ! ». Dès qu'il se reconcentre sur les propriétaires → « oui ». Dès qu'il réussit à renoncer : soit on continue sa route, soit on le laisse aller saluer le chien calmement. Il ne doit jamais avoir accès au chien en tirant, même les chiens qu'il connaît bien. Le calme doit toujours être respecté pour aller voir les congénères.
+
+---
+
+## Bilan S11
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail du renoncement congénère avec Vans comme chien référent.
+
+### DÉROULÉ DU COURS
+
+- Session de jeu libre avec Vans en début de séance pour abaisser le niveau d'excitation
+- Enchaînement des exercices : passer à côté sans tirer → rester calé en statique → bouger devant un chien statique
+
+### PROGRESSION / RÉSULTATS
+
+Bonne réussite des exercices. La session de jeu préalable avec Vans a facilité l'accès au travail.
+
+### EXERCICES À TRAVAILLER
+
+- Légère saccade sur la longe lorsqu'il tire pour aller voir le congénère + « Aïko, non ! ». Dès qu'il se reconcentre sur les propriétaires → « oui ». Dès qu'il réussit à renoncer : soit on continue sa route, soit on le laisse aller saluer le chien calmement.
+
+---
+
+## Bilan S12
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail du renoncement congénère avec Ramsey comme chien référent, sans session de jeu préalable.
+
+### DÉROULÉ DU COURS
+
+- Mêmes exercices que la S11 : passer à côté sans tirer → rester calé en statique → bouger devant un chien statique
+- Niveau de difficulté supérieur : Aïko et Ramsey n'avaient pas joué ensemble avant la séance
+- Une fois les exercices validés : accès au jeu avec Ramsey en récompense
+
+### PROGRESSION / RÉSULTATS
+
+Séance plus difficile qu'avec Vans, mais Aïko a réussi. La récompense par le jeu avec Ramsey a bien fonctionné.
+
+### EXERCICES À TRAVAILLER
+
+- Légère saccade sur la longe lorsqu'il tire pour aller voir le congénère + « Aïko, non ! ». Dès qu'il se reconcentre sur les propriétaires → « oui ». Dès qu'il réussit à renoncer : soit on continue sa route, soit on le laisse aller saluer le chien calmement.
+
+---
+
+## Bilan S14
+
+### CONTEXTE / OBJECTIF DU COURS
+
+Travail sur le renoncement congénère en présence de Ramsey. Poursuite de l'apprentissage des codes canins et consolidation des acquis.
+
+### DÉROULÉ DU COURS
+
+- Exercice de renoncement congénère : application de la marque négative ("non") lorsqu'Aïko tire pour aller vers Ramsey
+- Récompense au moment du détournement spontané ou sollicité
+- Balade avec Ramsey pour poursuivre l'apprentissage des codes canins en contexte naturel
+
+### PROGRESSION / RÉSULTATS
+
+Aïko a bien travaillé lors de cette séance. L'exercice de renoncement congénère reste cependant encore difficile pour lui et nécessite une pratique régulière.
+
+### EXERCICES À TRAVAILLER
+
+- Renforcer le renoncement congénère au quotidien : lorsqu'Aïko tire pour aller vers un congénère, ne pas céder. Maintenir la position et attendre qu'il se détourne avant de continuer la balade.

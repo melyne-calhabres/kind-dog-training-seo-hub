@@ -121,3 +121,68 @@ une friandise et l'autoriser à manger.
 Faire manger les chiens séparément au quotidien, en anticipant les moments de
 préparation des gamelles.
 Ne pas prolonger les séances trop longtemps : s'arrêter avant le point de rupture.
+
+---
+
+Bilan S3
+CONTEXTE / OBJECTIF DU COURS
+Travail sur la gestion des émotions : impulse control autour des jouets et gestion de l'attirance envers les congénères et les joggers.
+DÉROULÉ DU COURS
+Exercice « pas bougé » avec la balle : lancer la balle, Louve prend, puis donne contre un boudin
+Travail du renoncement congénère : maintien de l'allonge dès que Louve cherche à aller voir un autre chien
+Introduction d'un marqueur négatif (bruit neutre de bouche devenant négatif) associé à une légère saccade sur la laisse, suivi d'une récompense friandise dès que Louve regarde sa maîtresse
+Application de ce marqueur négatif sur l'envie de poursuite envers les joggers
+PROGRESSION / RÉSULTATS
+Bonne séance globalement. Louve répond aux exercices proposés. Le marqueur négatif couplé à la récompense au regard est une piste efficace pour travailler l'impulsivité.
+EXERCICES À TRAVAILLER
+« Pas bougé » avec la balle : lancer la balle, attendre que Louve la prenne, puis lui demander de donner en échange d'un boudin. Répéter régulièrement.
+Renoncement congénère : dès que Louve tire pour aller vers un autre chien, maintenir l'allonge fermement sans tirer. Attendre qu'elle renonce d'elle-même.
+Marqueur négatif + regard : au moment où Louve fixe ou tire vers un jogger, émettre un bruit neutre de bouche avec une toute petite saccade sur la laisse, puis récompenser immédiatement avec une friandise dès qu'elle regarde sa maîtresse. Pratiquer un peu chaque jour.
+
+---
+
+Bilan S5
+CONTEXTE / OBJECTIF DU COURS
+Séance courte mais intense, centrée sur la gestion des privilèges à la maison.
+DÉROULÉ DU COURS
+Travail sur l'interdiction du canapé : Louve ne peut désormais y monter que sur autorisation.
+Exercice de gestion de l'accès au canapé : pousser Louve à monter ; si elle ne monte pas malgré la sollicitation, la récompenser.
+Travail sur l'interdiction de l'entrée : dès l'ouverture de la porte, Louve doit rester assise à environ 1m50 de la porte. Elle peut se tenir debout, mais ne doit pas traverser sans autorisation.
+PROGRESSION / RÉSULTATS
+Explication apportée aux propriétaires sur l'origine comportementale du chien : Louve est un berger, race de travail. Lors de la sélection des chiens de travail il y a plusieurs années, une erreur génétique s'est produite, entraînant chez certains lignées une faible appétence au travail en meute et une tendance à la protection de ressources sur les troupeaux. Ce gène se retrouve aujourd'hui chez des chiens de travail devenus chiens de compagnie, qui ont tendance à vouloir tout gérer : protection de ressources marquée, gestion des passages, rassemblement des autres chiens du foyer (transposition du comportement de rassemblement des brebis). Cette dynamique peut, à terme, mener à des comportements agressifs si elle n'est pas régulée. Les exercices de gestion des privilèges (canapé, entrée) visent à faire redescendre Louve en pression et à limiter cette propension au contrôle de l'environnement.
+EXERCICES À TRAVAILLER
+Canapé interdit sauf autorisation : pousser Louve à monter sur le canapé ; si elle ne monte pas malgré la sollicitation, la récompenser immédiatement.
+Entrée interdite : à chaque ouverture de la porte, Louve doit rester assise à environ 1m50 de la porte. Position debout tolérée, mais elle ne doit pas traverser la zone sans autorisation.
+En présence d'autres chiens dans des maisons inconnues (séjours, visites) : reprendre systématiquement ces exercices de gestion des privilèges et veiller à la sécurité.
+Durant les premières heures du séjour dans un lieu avec d'autres chiens : vérifier que Louve laisse passer les autres chiens et qu'elle ne cherche pas à protéger les lieux ou les personnes.
+Si comportement de protection observé malgré ce travail : un accessoire de correction appelé Pet Corrector pourra être proposé lors de la prochaine séance pour corriger la charge.
+
+---
+
+Bilan S6
+CONTEXTE / OBJECTIF DU COURS
+Dernière séance du suivi. Initiation au Treibball afin de travailler la gestion des émotions et de canaliser les instincts de troupeau de Louve.
+DÉROULÉ DU COURS
+Exercices de « pas bouger » avec la balle : maintien de la position au moment où la balle est lancée (excitation), puis maintien de la position en plein milieu de la course vers la balle. Travail de la gestion des émotions.
+Introduction du geste « pousser la balle avec le nez » : une friandise est cachée sous la balle pour inciter Louve à la chercher avec son nez.
+Initiation à l'exercice « droite / gauche » avec un obstacle placé au milieu.
+PROGRESSION / RÉSULTATS
+Ces exercices permettent de combler les instincts de troupeau de Louve et de l'apaiser dans son quotidien, en lui offrant une activité qui la comble pleinement.
+EXERCICES À TRAVAILLER
+Continuer de travailler l'ensemble des exercices vus durant le suivi : gestion des ressources et du renoncement (gamelle, panier), gestion des privilèges (canapé, entrée), marqueur négatif associé au regard pour l'impulsivité envers congénères et joggers, et poursuite du travail de Treibball (pas bouger, pousser la balle, droite/gauche).
+
+---
+
+Bilan S7
+CONTEXTE / OBJECTIF DU COURS
+Séance de socialisation avec Ramsey. Travail sur la gestion des interactions en présence de plusieurs chiens.
+DÉROULÉ DU COURS
+Introduction de Louve avec Ramsey en duo
+Ajout d'un troisième chien pour tester la gestion en groupe
+Observation des réactions de Louve face au mouvement
+PROGRESSION / RÉSULTATS
+En présence d'un troisième chien, Louve présente une excitabilité marquée et des difficultés à gérer le mouvement. Elle cherche à contrôler les interactions plutôt qu'à s'y inscrire sereinement. Les propriétaires montrent un niveau de stress élevé, ce qui peut influencer la gestion des situations.
+EXERCICES À TRAVAILLER
+Reprendre les interactions depuis la base, en duo uniquement, dans un contexte calme
+Travailler la gestion des émotions de Louve face au mouvement d'autres chiens
+Accompagner les propriétaires dans une posture plus apaisée lors des interactions

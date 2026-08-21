@@ -14,7 +14,7 @@ description: "Skill de rédaction d'article SEO complet à partir d'un plan de c
 Internet est saturé d'articles génériques que n'importe qui peut écrire. L'objectif ici est l'inverse : produire un contenu ancré dans des données terrain, de l'expérience réelle et une capacité à se mettre à la place du propriétaire de chien. Un article plus court qui donne des éléments précis et concrets, qui répond parfaitement à une question, vaut toujours mieux qu'un article de 2000 mots écrit uniquement pour le ranking.
 
 Ce qui rend un article impossible à copier :
-- Des observations issues de cas réels (anonymisés) que seule Mélyne possède
+- Des observations issues de cas réels que seule Mélyne possède
 - Des détails spécifiques : un comportement précis observé, une durée de progression, un contexte particulier, une réaction typique du propriétaire
 - La capacité à nommer exactement ce que le lecteur vit, pense et ressent dans sa situation, parce que Mélyne accompagne ces personnes au quotidien
 - Des nuances et contre-exemples que seule l'expérience terrain permet de connaître
@@ -111,7 +111,7 @@ Les cas clients dans `cas-clients/` sont des bilans réels de chiens accompagné
 - Un axe de travail concret mis en place
 - Un détail qui illustre la complexité réelle d'une situation
 
-Ces éléments seront utilisés dans l'article sous forme anonymisée. Ne jamais citer le prénom du chien ni des détails permettant d'identifier le propriétaire. En revanche, on cite la race du chien pour améliorer l'identification du lecteur. La formulation type est : « un staffie que j'ai accompagné récemment », « une chienne cocker que j'ai suivie pour cette problématique », « dans un cas que j'ai eu avec un malinois », etc.
+Ces éléments seront utilisés dans l'article. On cite le prénom du chien et la race du chien pour améliorer l'humanisation et l'identification du lecteur. La formulation type est : « Vans, une staffie que j'ai accompagné récemment », « Bonnie, une chienne cocker que j'ai suivie pour cette problématique », « dans un cas que j'ai eu avec Drako, un malinois », etc.
 
 Il est possible que les cas clients disponibles ne couvrent pas tous les angles de l'article. Ce n'est pas un problème : utiliser les cas pertinents là où ils apportent de la valeur, et rédiger les autres sections à partir de la base de connaissances seule. L'objectif est de maximiser la présence de données terrain, pas de forcer un cas client dans chaque paragraphe.
 
@@ -297,7 +297,7 @@ Relire l'article section par section et vérifier la présence de données terra
 Reporter dans les notes techniques :
 - Le nombre de sections contenant des données terrain
 - Le nombre total de sections
-- Les cas clients utilisés (sans prénoms, juste la problématique : ex. "cas réactivité congénères par peur", "cas protection de ressources")
+- Les cas clients utilisés
 
 ### Étape 7 — Temps de lecture
 
@@ -374,16 +374,15 @@ Avant de livrer l'article, vérifier ces points :
 1. **Sourcing** : tout le contenu provient de la base de connaissances et/ou des cas clients, rien n'est inventé
 2. **Données terrain** : le maximum de sections contiennent des éléments issus de l'expérience réelle (cas clients ou observations terrain de la base)
 3. **Test anti-copie** : chaque section contient au moins un élément que seul un professionnel de terrain pourrait écrire (si un cas client est disponible pour ce sujet)
-4. **Anonymisation** : aucun prénom de chien dans les références aux cas clients
-5. **Termes interdits** : aucune occurrence de « éducation positive », « renforcement positif », « méthode coercitive »
-6. **Vouvoiement** : le lecteur est toujours vouvoyé, sans exception
-7. **Anti-IA** : l'article passe le filtre avoid-ai-writing (pas de mots Tier 1, rythme varié, transitions naturelles)
-8. **Paragraphes** : aucun ne dépasse 300 mots
-9. **Mot clé** : densité aux alentours de 1,5% (entre 1% et 3%)
-9b. **Champ sémantique (mot mystère)** : 8 à 12 termes de la liste des 20 présents dans les 300 premiers mots ; le reste lissé sur le corps de l'article
-10. **Callouts** : entre 1 et 6, environ 1 tous les 250-300 mots, en blockquote markdown
-11. **FAQ** : toutes les questions du plan ont une réponse (50-150 mots chacune)
-12. **À retenir** : encart présent en haut, entre 4 et 10 points selon la longueur
-13. **Temps de lecture** : estimé et affiché
-14. **Densité > longueur** : pas de remplissage, chaque phrase apporte quelque chose de concret
-15. **Structure** : l'article suit exactement la structure H2/H3 du plan, sans modification
+4. **Termes interdits** : aucune occurrence de « éducation positive », « renforcement positif », « méthode coercitive »
+5. **Vouvoiement** : le lecteur est toujours vouvoyé, sans exception
+6. **Anti-IA** : l'article passe le filtre avoid-ai-writing (pas de mots Tier 1, rythme varié, transitions naturelles)
+7. **Paragraphes** : aucun ne dépasse 300 mots
+8. **Mot clé** : densité aux alentours de 1,5% (entre 1% et 3%)
+8b. **Champ sémantique (mot mystère)** : 8 à 12 termes de la liste des 20 présents dans les 300 premiers mots ; le reste lissé sur le corps de l'article
+9. **Callouts** : entre 1 et 6, environ 1 tous les 250-300 mots, en blockquote markdown
+10. **FAQ** : toutes les questions du plan ont une réponse (50-150 mots chacune)
+11. **À retenir** : encart présent en haut, entre 4 et 10 points selon la longueur
+12. **Temps de lecture** : estimé et affiché
+13. **Densité > longueur** : pas de remplissage, chaque phrase apporte quelque chose de concret
+14. **Structure** : l'article suit exactement la structure H2/H3 du plan, sans modification

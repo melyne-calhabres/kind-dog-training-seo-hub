@@ -117,3 +117,35 @@ Multiplier les croisements en mouvement pour entretenir les bons résultats.
 Travailler progressivement le statique à proximité de chiens.
 Désensibilisation progressive aux abords des parcs à chiens, en restant à distance adaptée.
 Très belle évolution de Charly, la dynamique est excellente pour la suite.
+
+---
+
+BILAN SÉANCE 4
+Contexte / objectif du cours
+Travail prévu sur la terrasse. Objectif : gestion de la réactivité envers les congénères en environnement extérieur.
+Déroulé du cours
+Début de séance sur la terrasse comme prévu.
+Constat rapide d'une réactivité envers les congénères plus élevée qu'attendu.
+Charly a montré une grande difficulté à redescendre en dessous de son seuil de tolérance après chaque réaction.
+Chaque nouveau chien croisé déclenchait une nouvelle réaction, le seuil restant bloqué très haut tout au long de la séance.
+Progression / résultats
+La réactivité de Charly envers les congénères a été plus forte que lors des séances précédentes. Son seuil de tolérance est resté élevé en permanence, l'empêchant de se réguler entre deux stimuli. La séance a permis d'identifier un point de travail urgent : la capacité à redescendre et à se canaliser en session.
+Exercices à travailler
+Travailler la régulation émotionnelle entre deux expositions aux congénères.
+Apprendre à Charly à redescendre en dessous de son seuil de tolérance après une réaction.
+Travailler la canalisation progressive en présence de congénères.
+
+---
+
+BILAN SÉANCE 5
+Contexte / objectif du cours
+Cours collectif. Travail du refus d'appât, du rappel, du renoncement congénère et d'exercices d'agility pour la proprioception et la confiance en soi.
+Déroulé du cours
+Refus d'appât
+Rappel
+Renoncement congénère
+Exercices d'agility (proprioception et confiance en soi)
+Progression / résultats
+En début de séance, Charly a fortement déclenché en présence de Vaillant, avec des envois et des tirages sur laisse. Après seulement deux utilisations de la canette, les déclenchements ont complètement cessé. Sur l'ensemble des exercices, il a été exemplaire. Petit bémol sur le refus d'appât où il a tenté de tricher, mais sa propriétaire l'a rapidement repris — sans conséquence sur la progression globale.
+Exercices à travailler
+Utiliser la canette lors des croisements congénères.
