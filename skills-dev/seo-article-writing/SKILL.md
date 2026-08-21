@@ -69,6 +69,7 @@ Si aucun plan de contenu n'est trouvé, prévenir l'utilisateur et lui proposer 
 - Le **H1** et toute la **structure H2/H3** (y compris la FAQ)
 - Le **mot clé principal**
 - Les **termes sémantiques** mentionnés dans les notes techniques
+- La **liste des 20 termes du champ sémantique** — pivot du jeu du "mot mystère" (voir plus bas)
 - Le **positionnement dans l'arborescence** (pour comprendre le contexte de la page, pas pour créer des liens)
 
 Le nombre de mots cible du plan est un repère indicatif, pas un objectif. L'article est terminé quand il a répondu à la question avec des éléments concrets. S'il fait 600 mots et qu'il est complet, c'est suffisant. S'il en fait 1500 parce que le sujet le justifie, c'est bien aussi. La longueur ne doit jamais dicter le contenu.
@@ -117,6 +118,24 @@ Il est possible que les cas clients disponibles ne couvrent pas tous les angles 
 ### Étape 2 — Rédiger le contenu principal
 
 Rédiger chaque section (H2 puis H3) dans l'ordre du plan. Le plan ne doit pas être modifié, les titres sont déjà validés.
+
+#### Le jeu du "mot mystère" : concentration sémantique en ouverture
+
+Le mot clé principal est traité comme un "mot mystère" à faire deviner. La liste des 20 termes du champ sémantique (fournie par le plan) est le vocabulaire qui permet de décrire le sujet sans forcément le nommer. L'objectif SEO : signaler à Google que la page traite bien du sujet, en saturant son champ sémantique à l'endroit qu'il lit en priorité — le début.
+
+**Règle de répartition :**
+
+- **300 premiers mots (encart "À retenir" exclu, contenu qui suit le H1 + éventuellement le début du premier H2) :** viser **8 à 12 termes** de la liste des 20, en plus du mot clé principal (1 à 2 occurrences). Cette densité doit rester naturelle : on écrit comme si on décrivait le sujet à quelqu'un qui ne connaît pas le mot exact, en convoquant tout le vocabulaire du domaine.
+- **Suite de l'article :** lisser les termes restants sur le reste du corps. Chaque terme de la liste des 20 devrait apparaître au moins une fois dans l'article complet si c'est naturel. Si un terme ne colle pas au propos réel, ne pas le forcer : mieux vaut 17 termes bien placés que 20 termes plaqués.
+
+**Méthode pratique pour l'ouverture :**
+
+1. Avant d'écrire l'intro, relire les 20 termes.
+2. Rédiger un premier jet de l'ouverture en essayant naturellement de décrire le sujet sans utiliser le mot clé.
+3. Réinjecter le mot clé 1 à 2 fois là où c'est naturel.
+4. Compter les termes de la liste effectivement présents dans les 300 premiers mots. Si en dessous de 8, réécrire en remplaçant des tournures génériques par des termes du champ sémantique.
+
+Cette contrainte s'applique en plus de tout le reste (données terrain, empathie, ton, densité). Elle ne prime jamais sur la lisibilité : un texte fluide avec 8 termes vaut mieux qu'un texte lourd avec 12.
 
 #### Principe directeur : densité > longueur
 
@@ -258,6 +277,17 @@ Si la densité est très en dessous de 1% ou au-dessus de 3%, ajuster. Mais touj
 
 Reporter le résultat en fin de fichier dans les notes techniques.
 
+### Étape 5b — Vérification du champ sémantique (jeu du mot mystère)
+
+Compter, dans les 300 premiers mots de l'article (encart "À retenir" exclu), combien de termes de la liste des 20 sont effectivement présents. L'objectif est entre 8 et 12. Si moins de 8, réécrire l'ouverture pour intégrer des termes manquants sans dégrader la lecture.
+
+Compter également, sur l'article complet, combien des 20 termes ont été utilisés au moins une fois. Reporter les deux chiffres dans les notes techniques :
+
+- **Termes du champ sémantique en ouverture (300 premiers mots) :** [N]/20
+- **Termes du champ sémantique dans l'article complet :** [N]/20
+
+Si des termes n'ont pas été utilisés, lister lesquels et pourquoi (pas naturel, non pertinent au propos, déjà couvert par un synonyme, etc.).
+
 ### Étape 6 — Vérification terrain
 
 Relire l'article section par section et vérifier la présence de données terrain. Pour chaque H2 :
@@ -329,6 +359,9 @@ L'angle doit résumer l'orientation éditoriale de l'article, pas juste le sujet
 - **Mot clé principal :** [mot clé]
 - **Nombre de mots :** [total]
 - **Densité du mot clé :** [X]% ([N] occurrences)
+- **Termes du champ sémantique en ouverture (300 premiers mots) :** [N]/20
+- **Termes du champ sémantique dans l'article complet :** [N]/20
+- **Termes non utilisés :** [liste + raison]
 - **Nombre de callouts :** [N]
 - **Données terrain :** [N] sections sur [total] contiennent des éléments terrain
 - **Cas clients mobilisés :** [liste des problématiques utilisées, ex : "réactivité congénères par peur, protection de ressources"]
@@ -347,6 +380,7 @@ Avant de livrer l'article, vérifier ces points :
 7. **Anti-IA** : l'article passe le filtre avoid-ai-writing (pas de mots Tier 1, rythme varié, transitions naturelles)
 8. **Paragraphes** : aucun ne dépasse 300 mots
 9. **Mot clé** : densité aux alentours de 1,5% (entre 1% et 3%)
+9b. **Champ sémantique (mot mystère)** : 8 à 12 termes de la liste des 20 présents dans les 300 premiers mots ; le reste lissé sur le corps de l'article
 10. **Callouts** : entre 1 et 6, environ 1 tous les 250-300 mots, en blockquote markdown
 11. **FAQ** : toutes les questions du plan ont une réponse (50-150 mots chacune)
 12. **À retenir** : encart présent en haut, entre 4 et 10 points selon la longueur

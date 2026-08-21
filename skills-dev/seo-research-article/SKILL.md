@@ -57,13 +57,9 @@ Agréger les données des 5 pages pour produire :
 
 - **Moyenne du nombre de mots** et fourchette (min – max)
 - **Champ lexical dominant** : les termes sémantiques les plus fréquents à travers les 5 pages, classés par pertinence
-- **Mots sémantiquement proches du mot clé** : synonymes, variantes, termes associés utilisés par les concurrents
+- **20 termes du champ sémantique du mot clé** : produire une liste de **exactement 20 termes** qui appartiennent au même champ sémantique que le mot clé principal. Ce sont les mots qu'un lecteur (ou Google) s'attend à croiser dans un contenu qui traite vraiment le sujet — synonymes, variantes, cooccurrences fortes, termes techniques ou courants directement associés. Croiser ce que font les 5 concurrents avec ce qui manque et devrait logiquement y être. Cette liste sert à jouer le "mot mystère" : elle permet plus tard de décrire le sujet sans forcément nommer le mot clé, en convoquant son champ sémantique. Classer les 20 termes par ordre de pertinence (le plus proche du mot clé en premier).
 
-### Étape 5 — Vérifier la présence d'Esprit Dog
-
-Si le site `https://www.espritdog.com/` apparaît parmi les 5 premiers résultats, ajouter une section dédiée dans le rapport. Esprit Dog est un éducateur canin reconnu dans le milieu et son contenu sert d'inspiration prioritaire pour la rédaction. Mettre en avant sa structure, son angle éditorial et les points forts de son contenu.
-
-### Étape 6 — Générer le fichier de sortie
+### Étape 5 — Générer le fichier de sortie
 
 Sauvegarder le fichier dans le sous-dossier `recherches-seo/` du dossier de travail de l'utilisateur. Le nommer `[mot-clé-slugifié].md` (espaces remplacés par des tirets, tout en minuscules).
 
@@ -92,7 +88,6 @@ Créer le sous-dossier `recherches-seo/` s'il n'existe pas.
 ### 1. [Titre de la page]
 **URL :** [url]
 **Nombre de mots :** [nombre]
-[Si espritdog.com] ⭐ **Source d'inspiration prioritaire**
 
 #### Structure des titres
 H1: ...
@@ -113,21 +108,17 @@ H1: ...
 
 ## Champ lexical et sémantique
 
-### Termes sémantiquement proches du mot clé
-[Liste des synonymes, variantes et termes associés trouvés dans les contenus concurrents]
+### 20 termes du champ sémantique du mot clé
+[Liste numérotée de 1 à 20, classée par pertinence décroissante. Ce sont les termes à convoquer en priorité dans l'article pour saturer le champ sémantique du mot clé.]
+
+1. ...
+2. ...
+...
+20. ...
 
 ### Champ lexical dominant
 [Les termes les plus récurrents à travers les 5 pages, classés par fréquence ou pertinence]
 
----
-
-[Si espritdog.com est présent dans les résultats :]
-## Inspiration Esprit Dog
-
-**URL :** [url de la page Esprit Dog]
-**Angle éditorial :** [résumé de l'approche/angle adopté par Esprit Dog sur ce sujet]
-**Points forts du contenu :** [ce qui rend ce contenu efficace — structure, ton, exhaustivité, etc.]
-**Éléments à retenir pour la rédaction :** [recommandations concrètes inspirées de ce contenu]
 ```
 
 ## Notes importantes

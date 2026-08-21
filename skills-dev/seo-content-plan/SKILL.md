@@ -76,6 +76,7 @@ Si aucun fichier de recherche n'est trouvé, prévenir l'utilisateur et lui prop
 - Le **mot clé principal**
 - Le **nombre de mots moyen** et la **fourchette** (min – max) — affichés à titre indicatif dans le plan, mais pas comme un objectif à atteindre. La fourchette des concurrents reflète ce qui existe, pas ce qui devrait exister. Si la matière terrain couvre le sujet en 800 mots avec précision et authenticité, c'est 800 mots. Un article court mais impossible à reproduire sans expérience de terrain vaut plus qu'un article long rempli de généralités écrites pour le ranking
 - Le **champ lexical et sémantique** — en particulier les termes sémantiquement proches du mot clé
+- La **liste des 20 termes du champ sémantique** — à recopier telle quelle dans les notes techniques du plan. Cette liste servira à la rédaction pour jouer le "mot mystère" : concentrer un maximum de ces termes en début d'article, puis les lisser sur la suite.
 
 Les structures de titres des concurrents ne sont **pas** utilisées pour construire le fond du plan. Elles servent uniquement de référence SEO (quels termes sémantiques sont utilisés, quel volume de mots est attendu).
 
@@ -272,6 +273,15 @@ L'angle doit résumer l'orientation éditoriale du plan, pas juste le sujet. Obj
 - **Nombre de H2 :** [N]/6
 - **H2 avec terme sémantique :** [N] sur [total] ([pourcentage]%)
 - **Termes sémantiques utilisés :** [liste des termes sémantiques intégrés dans les H2]
+
+### 20 termes du champ sémantique à intégrer dans l'article
+
+[Recopier ici, telle quelle, la liste des 20 termes issue du fichier de recherche SEO. Cette liste sera utilisée à la rédaction pour saturer le début de l'article en champ sémantique, puis lisser sur la suite.]
+
+1. ...
+2. ...
+...
+20. ...
 
 ## Positionnement dans l'arborescence
 
