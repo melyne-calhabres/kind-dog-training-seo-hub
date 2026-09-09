@@ -213,6 +213,10 @@ Pour calculer : sur un article de 1 000 mots, 1,5% = environ 15 occurrences du m
 
 **Longueur** : l'article est terminé quand chaque section a dit ce qu'elle avait à dire avec des éléments concrets. Ne pas ajouter de phrases pour atteindre un nombre de mots. Ne pas reformuler la même idée de trois façons différentes. Si le plan prévoyait une fourchette de mots, c'est un repère, pas une obligation.
 
+**Listes à puces** : utiliser des listes à puces quand c'est cohérent pour faciliter la lecture. Elles sont pertinentes pour énumérer des signes observables, des étapes d'un processus, des erreurs fréquentes, des critères de choix, ou toute série d'éléments parallèles que le lecteur voudra pouvoir scanner rapidement. Ne pas transformer un raisonnement continu ou un récit terrain en liste : la prose reste la forme par défaut, la liste est un outil ponctuel de mise en forme. Une liste doit contenir au moins trois items et rester lisible (items courts, formulation parallèle, pas de sous-listes profondes).
+
+**Tableaux** : utiliser un tableau uniquement quand l'information a une vraie structure à deux dimensions que le lecteur voudra comparer ligne par ligne. Cas typiques : comparer plusieurs options selon les mêmes critères (ex : plusieurs types de harnais évalués sur confort / maintien / usage), opposer deux approches côte à côte, ou présenter un barème (âge → besoin, comportement observé → interprétation possible). Un tableau doit avoir au minimum 2 colonnes et 3 lignes de contenu, des en-têtes clairs, des cellules courtes (une phrase max, idéalement quelques mots). Si l'information tient dans une liste à puces ou dans un paragraphe, préférer ces formes : le tableau alourdit la lecture sur mobile. Pas plus d'un ou deux tableaux par article, et jamais dans la FAQ.
+
 #### Callouts
 
 Insérer entre 1 et 6 callouts dans l'article pour fluidifier la lecture et la rendre plus personnelle. Viser environ 1 callout tous les 250-300 mots.

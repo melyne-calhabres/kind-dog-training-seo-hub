@@ -5,13 +5,15 @@ Chaque entrée : `[fichier](fichier.md) — mot clé principal → angle en une 
 
 ## Réactivité, agressivité entre chiens
 
+- [agressivite-chien.md](agressivite-chien.md) — « agressivité chien » → page mère /problemes/agressivite/ : causes, typologie, distinction avec réactivité, premières décisions, idées reçues.
 - [chien-reactif.md](chien-reactif.md) — « chien réactif » → Comprendre les 3 formes de réactivité et agir au quotidien (page hub réactivité).
 - [mon-chien-est-reactif-en-balade.md](mon-chien-est-reactif-en-balade.md) — « mon chien est réactif aux autres chiens en balade » → Focus balade + rôle de la laisse.
 - [comment-reagir-quand-mon-chien-attaque-un-autre-chien.md](comment-reagir-quand-mon-chien-attaque-un-autre-chien.md) — Réaction dans l'instant + vraie attaque vs communication brutale.
 - [mon-chien-a-ete-attaque-par-un-autre-chien-que-faire-apres.md](mon-chien-a-ete-attaque-par-un-autre-chien-que-faire-apres.md) — Post-attaque : signes trauma, resocialisation, premières semaines décisives.
 
-## Gestion émotionnelle en balade
+## Gestion émotionnelle
 
+- [chien-qui-ne-sait-pas-gerer-ses-emotions.md](chien-qui-ne-sait-pas-gerer-ses-emotions.md) — « chien qui ne sait pas gérer ses émotions » → page /problemes/ tous contextes : reconnaître, impact, causes, réflexes qui aggravent, leviers concrets.
 - [mon-chien-a-du-mal-a-gerer-ses-emotions-en-balade.md](mon-chien-a-du-mal-a-gerer-ses-emotions-en-balade.md) — Angle compréhension : causes, mécanismes, signes de débordement.
 - [mon-chien-a-du-mal-a-gerer-ses-emotions-en-balade-solutions.md](mon-chien-a-du-mal-a-gerer-ses-emotions-en-balade-solutions.md) — Angle solutions : besoins, monter/redescendre en excitation, renoncement.
 
@@ -29,9 +31,13 @@ Chaque entrée : `[fichier](fichier.md) — mot clé principal → angle en une 
 
 ## Anxiété & séparation
 
+- [anxiete-chez-le-chien.md](anxiete-chez-le-chien.md) — « anxiété chez le chien » → hub /problemes/anxiete/ : formes, origines, réflexes qui aggravent, par où commencer.
 - [anxiete-de-separation-chien.md](anxiete-de-separation-chien.md) — Vraie anxiété vs hyperattachement, rituels de départ, travail d'absences progressives.
 
 ## Pages transverses / hubs
 
+- [education-canine.md](education-canine.md) — « éducation canine » → page mère du site, panorama obéissance/comportement/apprentissages/activités et renvois vers les pages filles.
+- [apprentissages-chien.md](apprentissages-chien.md) — page parente /apprentissages/ → cartographie chiot/obéissance/socialisation/chien adulte, prépare les pages filles.
 - [comment-comprendre-son-chien.md](comment-comprendre-son-chien.md) — Langage corporel, émotions, besoins. Page hub compréhension.
 - [probleme-de-comportement-chien.md](probleme-de-comportement-chien.md) — Page parente : trouble vs comportement gênant, quand consulter.
+- [comportement.md](comportement.md) — page parente /comportement/ → distinction comportement / apprentissages / dressage, cartographie problèmes + comprendre.
